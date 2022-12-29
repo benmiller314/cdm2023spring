@@ -1,0 +1,36 @@
+<section class="w-100">
+<a class="sr-only sr-only-focusable" href="#content">Back to main content</a>
+
+<script type="text/javascript">
+  if(page.url.includes("plans")) {
+    var today = page.url.substr(-2, 2);
+        today = parseInt(today);
+    var prev = today-1;
+    var next = today+1;
+
+    if (prev < 0) {
+      var prevlink = null;
+
+    } else {
+      var prevlink = "lesson-" +
+                 (prev < 10 ? "0" + prev : prev);
+    }
+    if (next > 25) {
+      var nextlink = null;
+    } else {
+      var nextlink = "lesson-" +
+                 (next < 10 ? "0" + next : next);
+    }
+
+
+  }
+</script>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark">
+  <ul id="lesson-nav">
+    <li><a id="prevlink-a" href="#"  class="hidden">Previous Lesson</a></li>
+    <li><a id="nextlink-a" href="#"  class="hidden">Next Lesson</a>
+  </ul>
+</nav>
+</section>

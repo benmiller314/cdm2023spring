@@ -1,0 +1,46 @@
+/* Adapted from https://codepen.io/matuzo/pen/oYvBjN?editors=1100 */
+
+@media print {
+  /* Absolute units are great for print stylesheets */
+  body {
+    font-size: 12pt;
+    margin: 0;
+  }
+
+  page {
+    margin: 2cm;
+  }
+
+  /* Don't orphan a heading */
+  h2, h3, h4 {
+    page-break-after: avoid;
+  }
+
+  /* avoid splitting of ul elements */
+  ul {
+    page-break-inside: avoid;
+  }
+
+  /* Print at least 2 lines on the current page and 4 lines on the next page */
+  p {
+    widows: 4;
+    orphans: 2;
+  }
+
+  /* Display targets of links */
+  a[href^="http"]:not([href*="codepen.io"]):after {
+      content: " (" attr(href) ")";
+  }
+
+  /* Display expansions of abbreviations */
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+}
+
+@media (min-width: 48em) {
+  body {
+    max-width: 48em;
+  }
+}

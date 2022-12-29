@@ -1,0 +1,36 @@
+# Jekyll configuration; see https://github.com/mojombo/jekyll/wiki/Configuration
+# Note: Jekyll configuration settings may not be respected by GitHub Pages.
+# Read the friendly manual: https://help.github.com/articles/using-jekyll-with-pages
+
+
+# Course-site specific configuration:
+course:
+  # Enter a base path if needed; not necessary for testing at localhost:4000/
+  # or if your site is hosted at a simple URL like http://example.com/
+  # But, if something comes after the .com/, you should enter it here.
+  # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
+  base_path: cdm2022spring/
+  # base_path: /
+  # E.g., ENGL 536
+  number: ENGCMP 610
+  name: Composing Digital Media
+  university: University of Pittsburgh
+  # Keep the description brief, about 140 chars
+  description: Making the most of multiple modes
+  # E.g., Spring 2013:
+  term: Spring 2022
+  slugterm: 2022spring
+  time: TuTh 1:00-2:15pm
+  room: Zoom, or CL 435 if public health allows
+  instructor:
+    name: Benjamin Miller
+    office: Zoom, or CL 617-N if public health allows
+    office_hours: Tu/Th 2:30-3:30pm or by appointment
+    email: millerb@pitt.edu
+    # No @ before your username; e.g., twitter, not @twitter
+    twitter: benmiller314
+# github: [metadata]
+github_url: https://benmiller314.github.io/cdm2022spring
+repo_url: https://github.com/benmiller314/cdm2022spring
+canvas_url: https://canvas.pitt.edu/courses/132963
+theme: jekyll-theme-time-machine

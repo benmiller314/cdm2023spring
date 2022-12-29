@@ -1,0 +1,136 @@
+COMPOSING DIGITAL MEDIA
+writing as layering
+
+Dr. Benjamin Miller	EngCmp 0610-1030, Class Number 18576
+email: millerb@pitt.edu	Fall 2019, TuTh 2:30-3:45pm
+office: Cathedral of Learning 617-N	class location: CL 435
+office hours: WF 12:00-1:00pm or by appointment; see benmiller314.youcanbook.me
+
+
+
+
+To save paper, this is a partial syllabus; all information below and more 
+is posted on our course website:  https://benmiller314.github.io/cdm2019fall
+
+
+
+
+
+COURSE DESCRIPTION
+This course requires students to compose digital media while exploring the rhetorical, poetic, and political implications of multiple writing platforms. Students will learn how to compose a range of critical media objects using web-authoring languages, text, sound, and images, primarily in open-source software. Classes will focus on theories of writing, composing, design, critique, delivery, and networked distributions; critique and analysis of digital media produced by professional and amateur digital media practitioners; and analysis and revisions of digital media composed by the students themselves. This section will focus on the core concepts of layers and versioning, applying them in the context of sound editing; image editing; and web design.
+
+
+
+REQUIRED MATERIALS
+We will not have a required textbook; however, I will assign texts to read and videos to watch, as well as some tutorials and walkthroughs for which I expect you to produce your own copies of files. Most of these assigned texts will be available by direct link online; for some, I will share a scanned copy in a limited-access space (so as to respect copyright through fair use). Please do not distribute the scanned copies further than our class members, and please let me know right away if you’re having trouble accessing one of these files – or, especially, the website.
+
+My email address is at the start of this syllabus.
+
+
+SOFTWARE
+If you wish to use a personal or home computer (vs. the lab computers), you are responsible for downloading and installing the following software packages, all of which are built collaboratively by open source communities, and all of which cost zero dollars:
+
+•	Git (https://git-scm.com/). Version control software for the command line.
+o	Mac users may wish to install via Homebrew (https://brew.sh/)
+o	Windows users may wish to install GitBash.
+o	There are also GUIs (graphical user interfaces) available for both platforms, should you prefer those. (Many people do.) See https://desktop.github.com.
+
+•	Audacity (https://www.audacityteam.org/). Audio editing toolkit.
+o	In addition to the main application, you’ll probably want the FFmpeg import/export library. Look for a separate download link on the page
+where you download Audacity.
+
+•	GIMP (https://www.gimp.org/). The GNU Image Manipulation Program.
+
+•	Atom (https://atom.io/). A cross-platform text editor for programming environments.
+o	Alternatives like Notepad++ (for Windows) and TextWrangler (for Mac) are acceptable, but you cannot use something like Microsoft Word for this.
+
+I recommend downloading these at your earliest convenience.
+
+
+HARDWARE
+I will ask you to make original sound recordings and take original photographs. If you have a cell phone of recent vintage, that should cover your basic needs. If not, you can borrow equipment from the digital media program; see dmap.pitt.edu/equipment. Talk to me if you have any questions.
+
+In addition, you’re going to want headphones, pretty often: our first unit deals with sound, and beyond that, we’ll have some days where we’ll work independently in the computer lab, and you might well want some sonic isolation from your surroundings even in non-aural units.
+
+
+WELCOME LETTER
+Dear digital media composers,
+I’m going to start with that crucial question, of grades. There are no quizzes in this course, and no tests. Here’s the deal: if you participate actively, and meet some baseline unit criteria that we come up with together, your minimum grade – the minimum, not a guarantee, but a floor – is a B. I’ve got a four-page packet explaining what that means, and how you can go up or down from there, but that’ll be part of the reading for homework.
+Feeling a little better? Or still curious about the course’s actual content? (I hope it’s both.)
+I’ve arranged the units of the course to build on each other, adding a new layer or wrinkle while carrying forward something of what we’d done previously. In the first unit, we’ll think about the affordances of digital media: that is, what’s made possible by working with bits instead of paper, even when we are still working with words? How do the answers change, or shift, as we move beyond words into aural and visual modes? Rather than build a single digital object, we’ll get used to using version control software with our writing – which is to say, we’ll keep track of what’s changing from microdraft to microdraft. The tools we’ll use here are Git and GitHub, which were developed for computer programming, but are adaptable to any kind of digital composing. In fact, GitHub is how we'll be hosting nearly all the materials for this course, including our discussion forum and your projects-in-progress. (The occasional file I need to keep private, I’ll post to Box.)
+The second unit is focused on soundwriting; it adds a layer of simultaneity by allowing several audio tracks to play at once (as opposed to the single linearity of prose text). We'll take a little tour of our sonic neighborhood to practice listening to the spaces around us, and the stories their sounds tell, sometimes below the level of conscious awareness. The major project for this unit is a soundscape narrative, whether documentary, fictional, or even science-fictional: I'll ask you to record and rearrange the sounds that surround you, using Audacity as our tool of choice.
+Unit three moves into visual rhetorics, adding multiple layers of depth to our x-y grid, even as that grid becomes more spatial, dropping the axis of time.  The major project in this unit is a kind of collage, but – importantly – a collage that makes an argument through its juxtaposition of images and text. (Though some of you may have some experience with Photoshop, I'd like us all to try GIMP this time around: it's nearly as powerful, and because it's free, you'll be able to keep using it easily after graduation. )
+The fourth unit, and with it the third major project, takes us deeper into the computer's stack: we'll be working with HTML and CSS to build responsive websites more or less from scratch. If you've never worked with markup languages before, don't worry; I know an excellent tutorial. As for tools, there are many excellent markup-sensitive text editors out there, but if you don't have a preference, I recommend the cross-platform Atom. We’ll publish the websites using GitHub’s built-in Pages functionality.
+Unit five asks you to put it all together, working collaboratively to solve problems in digital design. We’ll talk more about how that will work as it gets closer.
+You may have noticed that I'm not planning to teach you any "industry standard" software. This is a design choice I made, deliberately, if not without some hesitation. Here's why: even if I could teach you every aspect of a single program, there are many more out there, all of them changing with each new release, each new competitor. Ultimately, there’s no way to learn all there is to know about Composing Digital Media in one semester, or maybe a lifetime. Instead, what I hope the course can teach you, what I hope you’ll learn, are strategies for dealing with that endless churn of novelty – a sense of what to look for, and where to look, to get your bearings in the next new tool, and the next, and the next.
+So I'll frequently ask you to pause, to notice where your attention is drawn, and to consider what possibilities are present or suggested. I’ll ask you to read and respond to both model “texts” and arguments, and to reflect in writing frequently on the choices you’re making, and why. And, above all, I’ll ask you to keep making choices, and making new things. As composition scholar Doug Hesse put it, you can’t learn to play piano just by reading about the piano; why should we expect any differently about writing, in any form?
+I don’t expect us all to become concert-solo ready in just fifteen weeks. But I am looking forward to rehearsals.
+All best,
+Benjamin Miller (please call me Ben)
+
+SCHEDULE PREVIEW
+The following schedule is just a preview, and is subject to change; the full and most up-to-date version will be posted on the course website (https:/benmiller314.github.io/cdm2019fall), including more detailed explanations of each homework assignment and full lesson plans with space for comments or notes. This gives me more flexibility to adapt the specifics to our needs as a reading and writing community.
+Assignments are listed (as HW) on the day they are assigned, and are due online at 9pm the night before the following class meeting, unless otherwise specified. You should in general also bring a copy to class, so that we have access to it for discussion and/or revisions. Digital versions are usually fine.
+Unit I: 		What Makes Digital Media New?	(weeks 1-2)
+Unit II:		Soundscapes and Soundwriting	(weeks 2-5)
+Unit III: 	Visual Rhetorics and Argument	(weeks 5-8)
+Unit IV: 	Webslinging with Markup		(weeks 8-10)
+Unit V: 	Collaborative Composing		(weeks 10-14)
+Unit VI: 	Reflection and Revision		(week 15)
+
+Final portfolios will be due at the final exam slot, which has not yet been announced.
+
+UNIT I: WHAT MAKES DIGITAL MEDIA NEW?
+•	Lesson 1, Tuesday 8/27 ¬– Introductions
+HW:
+o	Read syllabus and grading contract; return with questions or a signed contract.
+o	Read Sorapure, “Five Principles of New Media: Or, Playing Lev Manovich”: http://kairos.technorhetoric.net/8.2/coverweb/sorapure/. Skim the text-only version after reading through the interactive one. NB: requires Flash (so don’t use Google Chrome).
+o	Watch Wesch, “Information R/evolution”: https://youtu.be/-4CV05HyAbM
+o	Respond to the Tech Comfort Survey if you haven’t done so in class: http://bit.ly/cdm2019survey
+o	Join github.com (it’s free) and
+o	Post an introduction on the Issues page at
+https://github.com/benmiller314/cdm2019fall/issues/1.
+
+•	Lesson 2, Thursday 8/29 – What is New about Digital Media?
+HW:
+o	Watch the YouTube videos “Git and GitHub for Poets,” starting at least with the Introduction (https://youtu.be/BCQHnlnPusY) and going as far as your interest and time allow. Take notes on what you don’t understand, and we’ll talk about it next class.
+o	Install Git if you don’t have it already. On a Mac, you’ll want to use Homebrew to install, which may require installing Homebrew first. On Windows, you’ll probably want GitBash. Optionally, also download the GitHub Desktop application.
+o	Optionally, if you're not comfortable with the command line, you can try the
+Command Line Crash Course (https://learnpythonthehardway.org/book/appendixa.html).
+
+
+
+•	Lesson 3, Tuesday 9/3 – Building a Repository
+HW:
+o	Listen to example sound narratives (see lesson plan)
+o	Write a short blog post in response: what do you notice? what do you wonder?
+o	Post this to the Issues page: https://github.com/benmiller314/cdm2019fall/issues/
+I’ll post the rest of the lessons and homeworks online, but here are the essential dates:
+
+UNIT II: SOUNDSCAPES AND SOUNDWRITING
+In this unit, you’ll arrange layers of sound to project a sense of place, and of things happening in that place. The genre of the narrative is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)
+
+Th 9/5		Soundwalk. Let me know as soon as possible if you have to be absent.
+Tu 9/10	Soundscape narrative proposal due
+Th 9/12	Soundscape narrative preview due
+Tu 9/17	Soundscape narrative full draft due
+Tu 9/24	Soundscape narrative final-for-now draft due
+
+UNIT III: VISUAL RHETORICS AND ARGUMENT
+In this unit, you will make a claim through the juxtaposition of images and text. As with the sound project, the context for your argument is open: you could be making a social commentary, calling for action, constructing a parody, riffing on a pun, explaining a concept, and so on. Whatever you choose, you should consider your audience and what they would find persuasive or interesting, and how you therefore wish to attract and direct their attention.
+
+Tu 10/8	Visual argument proposal due
+Th 10/10 	Visual argument preview due
+Tu 10/15	Visual argument full draft due
+Tu 10/22	Visual argument final-for-now draft due
+
+UNIT IV: WEBSLINGING (HTML+CSS MARKUP)
+In this unit, you will build a multi-page website portfolio, beginning with html and css files.
+
+Tu 10/29	Web portfolio proposal due
+Th 10/31 	Web portfolio preview due
+Tu 11/5	Web portfolio full draft due
+Tu 11/12	Web portfolio final-for-now draft due
+
+UNIT V: COLLABORATIVE COMPOSING (DEADLINES T.B.D.)
+Th 12/5	Last day of class; final project presentations

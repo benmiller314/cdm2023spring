@@ -1,0 +1,9 @@
+_site/
+.DS_Store
+**/.DS_Store
+Gemfile.lock
+old-plans/.DS_Store
+_config.yml
+*/inspect-element--firefox--skeleton.gif
+*/ben-reads-perl-guidelines--final-unit.mp3
+**/~$*.docx

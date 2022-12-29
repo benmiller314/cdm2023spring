@@ -1,0 +1,35 @@
+  <header class="col-xs-12">
+    <nav class="navbar navbar-default navbar-fixed-top">
+    <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+      <div class="container-fluid">
+        <div class="row clearfix">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-2" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <div class="col-xs-12 col-md-5 col-md-offset-1" id="header-left">
+            <h1>Composing Digital Media</h1>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-left" id="navbar-collapse-2">
+              <ul class="nav navbar-nav">
+                <li role="navigation"><a href="{{site.github_url}}/index">Home</a></li>
+                <li role="navigation"><a href="{{site.github_url}}/schedule">Schedule</a></li>
+                <li role="navigation"><a href="{{site.github_url}}/assignments">Assignments</a></li>
+                <li role="navigation"><a href="{{site.github_url}}/resources">Resources</a></li>
+                <li role="navigation"><a href="{{site.github_url}}/office.html">Office Hours</a></li>
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.header-left -->
+          <div class="col-xs-12 col-md-5" id="header-right">
+            <h2 class="text-right"><small>
+                {{ site.course.university }},
+                {{ site.course.term }}<br/>
+                {{ site.course.time }} |
+                {{ site.course.room }}</small></h2>
+          </div> <!-- /. header-right -->
+        </div> <!-- /.row -->
+      </div><!-- /.container-fluid -->
+    </nav>
+  </header>

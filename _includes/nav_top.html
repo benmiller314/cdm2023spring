@@ -1,0 +1,11 @@
+<section class="w-100">
+<a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-dark">  <!-- removing fixed-top -->
+      {% include nav_contents.html %}
+    </nav>
+    {% if page.bannerimage %}
+      <img src="{{site.github_url}}/assets/img/{{page.bannerimage}}" alt="{{page.banneralt}}" title="{{page.bannertitle}}" class="banner" />
+    {% endif %}
+  </div>
+</section>

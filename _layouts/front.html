@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include sitewide_head.html %}
+</head>
+<body class="front">
+  <span class="sr-only sr-only-focusable"><a href="#front-nav">Jump to navigation</a></span>
+  <div id="background" class="container-fluid background">
+
+  <div id="foreground" class="foreground">
+
+    <header class="d-flex align-items-center page-header justify-content-between">
+      <div class="col col-md-6">
+        <h1 class="sr-only">Composing Digital Media</h1>
+        <img src="{{site.github_url}}/assets/img/course-title.gif" alt="animating media through replication, revision, responsiveness, rearrangement, remix, and more." />
+      </div>
+      <div class="flex-column justify-content-between align-items-center page-header col-md-6">
+          <h2>{{ site.course.instructor.name }}</h2>
+          <h3>
+              {{ site.course.term }} |
+              {{ site.course.time }} |
+              {{ site.course.room }}</h3>
+      </div>
+    </header>
+
+    {%if page.featured_image %}
+      <div id="featured-image" class="col-md-5 col-md-offset-1 col-sm-12">
+
+      {{ page.featured_image }}
+
+      </div>
+    {% endif %}
+
+    <section id="content" class="d-flex justify-content-around flex-sm-wrap-reverse flex-lg-nowrap">
+
+    {{content}}
+
+    </section>
+  </div> <!-- end of foreground -->
+
+  </div> <!-- end of background -->
+  <footer>
+    {% include credits_and_license.html %}
+  </footer>
+
+
+<!--jQuery & Twitter Bootstrap JavaScript-->
+<script type="javascript" src="{{site.github_url}}/assets/js/jquery-3.4.1.min.js"></script>
+<script type="javascript" src="{{site.github_url}}/assets/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

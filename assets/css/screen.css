@@ -1,0 +1,287 @@
+@import url('bootstrap.min.css');
+
+/* Basic color scheme */
+body {
+	background-color: #003366;
+}
+
+.foreground {
+	background-color: #f7f7f7;
+	min-height: 720px;
+	width: 90%;
+	margin: 0 5%;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+@media screen and (max-width: 768px) {
+    .foreground {
+    	width:100%;
+    	margin: 0 auto;
+    }
+}
+
+article#content {
+	margin: 0 auto;
+}
+
+a {
+	color: #0065d1;					# tones down luminosity against light bg
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	rgba(255, 255, 255, 0.7)		# up from alpha 0.5 in Bootstrap
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+	text-decoration: underline;
+}
+
+/* Front page styling */
+p#description {
+	max-width: 50em;
+	margin: 0 1.5em;
+}
+
+.center-pills {
+    display: flex;
+    justify-content: center;
+		flex-wrap: wrap;
+}
+
+.center-pills .nav-item {
+		height: fit-content;
+		margin: 5px;
+}
+
+header h1, header h2, header h3, header h4 {
+	font-family: asap, calibri, sans-serif;
+}
+
+header h3 {
+    font-size: 1.3em;
+    font-weight: initial;
+    color: #777;
+}
+
+header, .page-header {
+	background-color: #f7f7f7;
+}
+
+.page-header {
+	max-width: 70%;
+}
+
+footer {
+    color: #d0d0d0;
+    bottom: 0;
+    margin: 0.5em 10%;
+		font-size: 0.8em;
+}
+
+footer a {
+    color: #6294f4;
+}
+
+footer a:hover, footer a:visited {
+    color: #297fdb;
+}
+
+
+/* Header spacing */
+
+body.thin_header {
+	padding-top: 69px;
+}
+
+body.bottom_header {
+	padding-bottom: 69px;
+}
+
+body.front header {
+	flex-wrap: wrap;
+}
+
+div#navbar-collapse-1 {
+	margin-top: 9px;
+}
+
+body.full_header {
+	padding-top: 105px;
+}
+
+div#navbar-collapse-2 {   /* only used in full_header.html*/
+	margin-top: -15px;
+}
+
+button#menu-button {
+	margin-top: -3.5em;
+}
+
+img.banner {
+  width: 200%;
+  display: block;
+  margin-left: -50%;
+  margin-right: auto;
+}
+
+#navbarNav ul.navbar-nav {
+    align-items: flex-end;
+    margin-right: 0.5em;
+}
+
+h2, h3 {
+    margin-top: 1.1em;
+}
+
+/* Don't let the anchor-jumps get chomped by the header */
+h1::before, h2::before, h3::before, h4::before, #content::before {
+  display: block;
+  content: " ";
+  margin-top: -85px;
+  height: 85px;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* Footnotes */
+.ftnref, .ftn {
+    font-size: .83em;
+    /* line-height: 0.5em; */
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+}
+
+.footnote-block {
+	margin: 2.5em 0;
+	font-size: 0.8em;
+}
+
+.footnote {
+  text-indent: -1.4em;
+  margin-left: 1em;
+}
+
+/* Images. Add padding, don't overflow column, maintain aspect ratio. */
+article figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+article figure {
+    margin: 2em auto;
+}
+
+article figure figcaption {
+    margin: 1em;
+    font-style: italic;
+}
+
+/* Indent dictionary definitions, better demarcate dictionary terms */
+dt {
+    font-style:italic;
+    font-weight: bold;
+}
+
+dd {
+    margin: 0 0 1em 2em;
+}
+
+/* Make new alert class with a transparent middle but a colored border; useful for sidebar topics within main content */
+.alert-white {
+    border: 1px solid deepskyblue;
+}
+
+/* Some lists should be more widely spaced */
+ul.spaced > li, ol.spaced > li {
+	  margin-bottom: 1em;
+}
+
+ol.lalpha {
+	list-style-type: lower-alpha;
+}
+
+ol.ualpha {
+	list-style-type: upper-alpha;
+}
+
+
+/* Create side-by-side columns */
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	/* flex-wrap: nowrap; */
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+/* Make <detail> accordion-style elements prettier */
+details summary {
+    width: 100%;
+    background-color: #a7d6ff;
+    border: 1px solid #75bfff;
+    margin: 5px 0;
+    padding: 0.5em;
+}
+
+details[open] {
+    margin-bottom: 2em;
+  	padding-bottom: 1em;
+  	-webkit-box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
+	     -moz-box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
+	          box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
+}
+
+/* But don't do this inside a colored alert */
+.alert summary {
+    background-color: inherit;
+}
+
+/* Add more visual separation between consecutive
+   dictionary list items (e.g. on resources page) */
+dt:nth-child(1) {
+    border-top: 3px solid #008000a8;
+    padding-top: 0.5em;
+}
+
+dd + dt {
+    border-top: 3px solid #008000a8;
+    margin-top: 3em;
+    padding-top: 0.5em;
+}
+
+
+dd + dt:nth-of-type(even) {
+    border-top: 3px solid #05015ea8;
+}
+
+/* Get rid of that default pink code styling */
+pre, code {
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border: 1px solid hsla(210, 3%, 83%, 1);
+    padding: 3px;
+    line-height: inherit;
+    font-family: "Lucida Console", "Monaco", monospace;
+    font-size: 0.9rem;
+    color: #462d32;
+    background-color: #efefef;
+    vertical-align: baseline;
+}
+
+pre {
+    padding: 0.2em 1em 1.2em;
+}
+
+pre code {
+    border: none;
+    padding: initial;
+}
+
+/* Dummy span to stop Atom from italicizing after real underscores and asterisks */
+
+.hidden {
+	display: none;
+}
