@@ -9,7 +9,7 @@ course:
   # or if your site is hosted at a simple URL like http://example.com/
   # But, if something comes after the .com/, you should enter it here.
   # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
-  base_path: cdm2022spring/
+  base_path: cdm2023spring/
   # base_path: /
   # E.g., ENGL 536
   number: ENGCMP 610
@@ -18,8 +18,8 @@ course:
   # Keep the description brief, about 140 chars
   description: Making the most of multiple modes
   # E.g., Spring 2013:
-  term: Spring 2022
-  slugterm: 2022spring
+  term: Spring 2023
+  slugterm: 2023spring
   time: TuTh 1:00-2:15pm
   room: Zoom, or CL 435 if public health allows
   instructor:
@@ -30,7 +30,7 @@ course:
     # No @ before your username; e.g., twitter, not @twitter
     twitter: benmiller314
 # github: [metadata]
-github_url: https://benmiller314.github.io/cdm2022spring
-repo_url: https://github.com/benmiller314/cdm2022spring
-canvas_url: https://canvas.pitt.edu/courses/132963
+github_url: https://benmiller314.github.io/cdm2023spring
+repo_url: https://github.com/benmiller314/cdm2023spring
+canvas_url: https://canvas.pitt.edu/courses/187176
 theme: jekyll-theme-time-machine
