@@ -12,7 +12,7 @@ On this page, you'll find links to important course documents and readings you c
 
 ## Syllabus-related materials
 
-* [Full syllabus, including Grading Contract]({{site.github.repository_url}}/raw/gh-pages/uploads/miller--syllabus-with-grading-contract--composing-digital-media--{{slugterm}}.docx)
+* [Full syllabus, including Grading Contract]({{site.github.repository_url}}/raw/gh-pages/uploads/miller--syllabus-with-grading-contract--composing-digital-media--{{site.course.slugterm}}.docx)
 
 ## Other handouts
 (will be posted here, as needed)
