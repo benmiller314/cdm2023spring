@@ -10,6 +10,8 @@ Drop-ins are welcome during my regular hours, {{site.course.instructor.office_ho
 
 Below the signup calendar, I'm also embedding my busy/free status for office hours: <em>if it looks like I have no appointments left open, you can check here:</em> actual reserved appointment slots will show up as "busy" during the standard office-hour window.
 
+In addition, the Digital Media Lab will host limited open hours in CL 435, when student lab assistants will be available to help with projects or loan equipment. In {{site.course.term}}, these have {{site.dml_hours}}.
+
 ### Signup calendar
 <a id="signups" class="jump" />
 (may take a few seconds to load)
