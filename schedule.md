@@ -9,7 +9,7 @@ banneralt: "banner: phases of the moon"
 
 *[Jump to latest lesson plan](#current)*
 
-Assignments are listed (as HW) on the day they are assigned, and are **due at 9pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1"><sup>[1]</sup></a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include [GitHub](https://github.com) (recommended), Pitt's [OneDrive](https://www.technology.pitt.edu/services/cloud-collaboration-box-and-onedrive) instance (next best thing), an external service like Dropbox, or flash drive.
+Assignments are listed (as HW) on the day they are assigned, and are **due at 9pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1" title="This early deadline is not my way of being mean; it's just that sometimes things will take longer than you expect, and I'd really like for you to be able to sleep, and for me to be able to look over your work in the morning before class. Those latter two things are the real priorities that the 'night before' policy is meant to achieve."><sup>[1]</sup></a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include [GitHub](https://github.com) (recommended), Pitt's [OneDrive](https://www.technology.pitt.edu/services/cloud-collaboration-box-and-onedrive) instance (next best thing), an external service like Dropbox, or flash drive.
 
 <div class="panel panel-info">
 <div class="panel-body">
@@ -367,7 +367,7 @@ For next time:
 
 <p class="footnote"><a href="#ftnref1" id="ftn1">[1]</a> This early deadline is not my way of being mean; it's just that sometimes things will take longer than you expect, and I'd really like for you to be able to sleep, and for me to be able to look over your work in the morning before class. Those latter two things are the real priorities that the "night before" policy is meant to achieve. <a href="#ftnref1"><em>~jump back~</em></a></p>
 
-<p class="footnote"><a href="#ftnref2" id="ftn2">[2]</a> If you're updating an existing project, I recommend doing this in a <a href="https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches">new branch</a> of the old repository, instead. <a href="#ftnref2"><em>~jump back~</em></a></p>
+<!-- <p class="footnote"><a href="#ftnref2" id="ftn2">[2]</a> If you're updating an existing project, I recommend doing this in a <a href="https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches">new branch</a> of the old repository, instead. <a href="#ftnref2"><em>~jump back~</em></a></p> -->
 
 </div>
 
