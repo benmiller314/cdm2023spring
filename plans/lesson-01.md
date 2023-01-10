@@ -74,7 +74,7 @@ But first, an important consideration: <em>what web handle do you want to use fo
     - Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form.
     -  If you'd like, feel free to include a link to that digital tool / app / website you wrote down at the start of class!
 3. Finally, you'll need some software for next class:
-  * **Download and install** a plain text editor with syntax highlighting; if you don't already have a preference, I recommend [Visual Studio Code](https://code.visualstudio.com/) (or VS Code for short), which works on Windows, Mac, and Linux. (My go-to had been the GitHub-built [Atom](https://atom.io), but it's been sunsetted, sadly.)
+  * **Download and install** a plain text editor with syntax highlighting. If you don't already have a preference, I recommend [Visual Studio Code](https://code.visualstudio.com/) (or VS Code for short), which works on Windows, Mac, and Linux. (My go-to had been the GitHub-built [Atom](https://atom.io), but it's been sunsetted, sadly.) Chromebook users might try [Caret](http://thomaswilburn.net/caret/).
     - NB: Microsoft Word is *not* good enough for this purpose. Word files are very much not plain text... as you can see if you replace the .docx with .zip and expand the result.
     - If you already use Notepad++ or SublimeText or something like that, that's totally fine. At some point I may ask you to share your screen so we can look for similarities and differences. :1
   * **Download and install** the [GitHub Desktop application](https://desktop.github.com).

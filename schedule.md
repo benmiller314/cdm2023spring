@@ -42,7 +42,7 @@ HW for next time:
   - **and post** an introduction to yourself on <a href="{{site.github.issues_url}}/1">the issue queue</a>.
 * Prep software for next class:
   - **Download and install** the [GitHub Desktop application](https://desktop.github.com)
-  - If you don't already have one, please **download and install** a plain text editor with syntax highlighting. If you don't have a preference, try Microsoft's **[VS Code](https://code.visualstudio.com/)**, which runs on PC, Mac, and Linux.
+  - If you don't already have one, please **download and install** a plain text editor with syntax highlighting. If you don't have a preference, try Microsoft's **[VS Code](https://code.visualstudio.com/)**, which runs on PC, Mac, and Linux. (Chromebook users might try [Caret](http://thomaswilburn.net/caret/).)
     - Especially if you don't know what "syntax highlighting" is, I recommend this [7-minute intro to VS Code](https://youtu.be/B-s71n0dHUk).
 
 
