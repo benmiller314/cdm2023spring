@@ -9,7 +9,7 @@ banneralt: "banner: phases of the moon"
 
 *[Jump to latest lesson plan](#current)*
 
-Assignments are listed (as HW) on the day they are assigned, and are **due at 9pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1"><sup>[1]</sup></a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include [GitHub](https://github.com) (recommended), Pitt's [Box or OneDrive](https://www.technology.pitt.edu/services/cloud-collaboration-box-and-onedrive) (next best thing), an external service like Dropbox, or flash drive.
+Assignments are listed (as HW) on the day they are assigned, and are **due at 9pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1"><sup>[1]</sup></a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include [GitHub](https://github.com) (recommended), Pitt's [OneDrive](https://www.technology.pitt.edu/services/cloud-collaboration-box-and-onedrive) instance (next best thing), an external service like Dropbox, or flash drive.
 
 <div class="panel panel-info">
 <div class="panel-body">
@@ -42,7 +42,8 @@ HW for next time:
   - **and post** an introduction to yourself on <a href="{{site.github.issues_url}}/1">the issue queue</a>.
 * Prep software for next class:
   - **Download and install** the [GitHub Desktop application](https://desktop.github.com)
-  - **Download and install** a plain text editor with syntax highlighting; if you don't already have a preference, I recommend [Atom](https://atom.io).
+  - If you don't already have one, please **download and install** a plain text editor with syntax highlighting. If you don't have a preference, try Microsoft's **[VS Code](https://code.visualstudio.com/)**, which runs on PC, Mac, and Linux.
+    - Especially if you don't know what "syntax highlighting" is, I recommend this [7-minute intro to VS Code](https://youtu.be/B-s71n0dHUk).
 
 
 
@@ -52,6 +53,7 @@ HW for next time:
 * **Read / play** through Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/). Be ready to talk about what you noticed, and what you wondered.
 * **Listen** to example audio narratives (see lesson plan for links)
 * **Write** a short blog post: what do you notice? what do you wonder? Post this on <a href="{{site.github.issues_url}}">the Issues page</a>.
+* EXT for eager readers: interested in more on affordances? Try [this short chapter](https://wac.colostate.edu/docs/books/design/chapter7.pdf) from *Keywords in Design Thinking*.
 
 
 
@@ -173,14 +175,14 @@ For next time:
 
 * **By 11:59pm on Sunday,** complete – at least for now – your visual argument
 * By classtime on Tuesday, post a prose reflection to <a href="{{site.github.issues_url}}">the issue queue</a> that incorporates images from your feedback and screenshots of your GIMP project.
-<!-- BEN HW: Choose sample student website projects to assign. Focus on work by people without prior experience – including Carolyn's tea shop -->
+<!-- BEN HW: Choose sample student website projects to assign. Focus on work by people without prior experience – including Lynn Priestley's tea shop -->
 
 
 <h2 id="unit-4">Unit IV: Webslinging (HTML + CSS markup)</h2>
 
 *In this unit, you will build a multi-page website from scratch, beginning with html and css files.*
 
-<h3><a href="{{site.github_url}}/plans/lesson-15">Lesson 15, Tuesday 2/28</a> – Midterm Reflections and Generative Writing </h3> <!-- Generative loop writing: what are the collections & categories of things you've made? Things you'd want to make? Offline sketching -->
+<h3><a href="{{site.github_url}}/plans/lesson-15">Lesson 15, Tuesday 2/28</a> – Midterm Reflections and Generative Writing </h3> <!-- Generative loop writing: what are the collections & categories of things you've made? Things you'd want to make? Offline sketching NOTES FOR SPRING 2023: encourage mobile-first sketching! -->
 
 For next time:
 
@@ -199,9 +201,9 @@ For next time:
 
 * *Optional* If you haven't yet, spend some time getting to know your plain-text editor.
   - Can it show two or more files side by side? Can it preview how an html file will render? Does it allow plugins or extensions to enable either of those things?
-  - If you're using Atom, you may want to check out the intro tutorials on the course [Resources page]({{site.github_url}}/resources#web-design:~:text=good%20tutorials%20on%20working%20with%20Atom).
+  - If you're using VSCode, you may want to check out some [intro tutorials](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6). I also recommend this list of [HTML-specific features and optional settings](https://code.visualstudio.com/docs/languages/html).
 * **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you have time for – but **at least parts 1-4** (from "Introduction" through "Hello, CSS").
-  * Heads up to fast workers: Float layouts used to be a big deal, but aren't as widely recommended any more. You can probably skip that chapter, at least for now.
+  * Heads up to fast workers: Float layouts used to be a big deal, but aren't as widely recommended any more. *You can probably skip the Float chapter*, at least for now.
 * **Show your work** by pushing your tutorial code to your project repository.
   * Do start by copying the pages as written, before attempting to adapt to your own work: confirm that you can get them to look the same as in the tutorial.
   * If your pages *aren't* working the same as in the tutorial, please do check with me! I'll set aside some breakout group time when we get back, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.
@@ -228,7 +230,9 @@ NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doe
 <!-- * **View** screencast on using <nav><ul><li></a> and CSS to remove bullets ... and to resize the <a> directly using padding. Point out that this is a direct application of the Box Model. -->
 
 
-
+<div class="alert alert-info">
+<p>NB: This Friday, March 17th, is the Spring Term deadline for students to submit <a href="https://www.asundergrad.pitt.edu/sites/default/files/Monitored%20Withdrawal%20Request.pdf">Monitored Withdrawal</a> forms to Dean’s Office. If you find yourself missing a lot of work in one of your classes, such that a full course do-over might help you, talk to your advisor and/or professor about this option.</p>
+</div>
 
 <h3><a href="{{site.github_url}}/plans/lesson-18">Lesson 18, Thursday 3/16</a> – Studio / Navigation</h3>
 
@@ -236,11 +240,13 @@ NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doe
 
 For next time:
 
+* **View** video on responsive-first layout (minimal CSS) <!-- need to find this again! I feel like I saw it on that Kevin channel... -->
 * **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
   - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors.
 * Separately, also **read** about [Grid Layout](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725) (and optionally the followup post on [responsive grid](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)).
   - EXT: Want more CSS Grid templates and examples, including CodePens to play with? Try [Grid By Example](https://gridbyexample.com/learn/), which also has video tutorials.
 * **Compose and push** a first website preview: a beginning, focused on content and navigation.
+
 
 <!-- <div class="alert alert-warning">
 No homework: Wednesday is a self-care day. That said, if you find CSS Diner relaxing...
@@ -268,7 +274,8 @@ For next time:
 <!--
 * Model building a design from a hand-drawn sketch.
 * Self-paced tutorial-ing / applications of tutorial to your own content, in breakouts
-* Q&A with Ben in main room, especially if your tutorials aren't working as expected.
+* Q&A with Ben, especially if your tutorials aren't working as expected.
+* Remind people that local file paths aren't going to work! Show them the browser extension for replacing images with their alt text / detecting accessibility problems.
 -->
 For next time:
 
@@ -278,36 +285,36 @@ For next time:
     - (You should then also <em>delete that extra copy</em>, before you get confused as to where you're revising and pushing from.)
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Tuesday 3/28</a> – Web Unit Workshop </h3> <!-- Remind people that local file paths aren't going to work! Show them the browser extension for replacing images with their alt text / detecting accessibility problems. -->
-
-<div class="alert alert-danger">
-Heads up: This will be a <strong>fully asynchronous</strong> workshop. See lesson plan for details, but please try to leave your feedback <em>by Thursday morning if possible</em>, so your classmates have the studio time to revise with your input in mind. If you can finish by the end of our usual classtime, all the better!
-
-<!-- I'll be in the class zoom during office hours and classtime for troubleshooting, if you need me.-->
-</div>
-
-
-<h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Thursday 3/30</a> – Post-workshop Studio </h3><!-- if you didn't get feedback, LET BEN KNOW! -->
-
+<h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Tuesday 3/28</a> – Web Unit Workshop </h3> 
 For next time:
 
 * Optionally, **write** one more blog post about what you'd like to do in our final / integrative unit. If you're interested in finding people to collaborate with, this is a good time to make a pitch.
   - Post this to <a href="{{site.github.issues_url}}">the issue queue</a>, as usual
 * Continue to **save, commit, and push** toward your final-for-now website.
+<!-- if you didn't get feedback, LET BEN KNOW! -->
+
+<!-- <div class="alert alert-danger">
+<span style="color: #c51100;">Heads up: This will be a <strong>fully asynchronous</strong> workshop. See lesson plan for details, but please try to leave your feedback <em>by Thursday morning if possible</em>, so your classmates have the studio time to revise with your input in mind. If you can finish by the end of our usual classtime, all the better!</span>
+
+<!-- I'll be in the class zoom during office hours and classtime for troubleshooting, if you need me.
+</div>
+-->
+
+<h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Thursday 3/30</a> – Post-workshop Studio </h3>
 
 Planning ahead:
 
 * The website project and prose reflection will be due **by next Friday (4/7),** incorporating (as usual) images from your feedback and screenshots of your work in progress. If you'll need an extension, please confirm it by Tuesday (4/4).
 
-<div class="alert alert-warning">NB: Ben will be traveling next week because of Passover. Tuesday's class and office hours (April 4) will be <em>fully remote</em>; Thursday's class and office hours (April 6) are <em>canceled</em>.</div>
+<div class="alert alert-warning"><span style="color: #c51100;">NB: Ben will be traveling next week because of Passover. Tuesday's class and office hours (April 4) will be <em>fully remote</em>; Thursday's class and office hours (April 6) are <em>canceled</em>.</span></div>
 
-<h3><a href="{{site.github_url}}/plans/lesson-23">Lesson 23, Tuesday 4/4</a> – Final Web-Unit Studio (**online**)
+<h3><a href="{{site.github_url}}/plans/lesson-23">Lesson 23, Tuesday 4/4</a> – Final Web-Unit Studio <span style="color: #c51100;"><strong>on Zoom</strong></span> (access from link in Canvas sidebar)
 </h3> <!-- Already done? Head over to <a href="{{site.github.issues_url}}">the issue queue</a> and read through final-unit proposals. Anything you want to collaborate on? (NB: Collaboration is not required for the final unit.) -->
 
 For next time:
 * Unless you've confirmed an extension with me, the final (at least or now) website project will be due **by Friday (4/7),** along with your prose reflection incorporating (as usual) images from your feedback and screenshots of your work in progress.
 
-<h3>Thursday, 4/6 – no class.</h3>
+<h3>Thursday, 4/6 – <span style="color: #c51100;"><strong>no class</strong></span></h3>
 
 <h2 id="unit-5">Unit V: Putting it Together (Bit by Bit)<a href="https://youtu.be/rJFz-ucuTvs?t=328"><span class="hidden">*</span><sup>*</sup></a></h2>
 

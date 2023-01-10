@@ -17,7 +17,9 @@
 
 We begin with writing, as a way of priming the pump of conversation, but also, really, as a way of letting your thoughts surface: writing can be a way of telling yourself what you think. It can lead to surprises, if you let it. Try to think on the page.
 
-I'll give you a series of openings; **start with the prompt that speaks the most to you right now, and then move on to others** as you finish answering. Write your response somewhere you'll be able to refer back to it. _Sharing the writing itself will be optional, but I do hope you'll share *some* thoughts aloud today_, using your notes to jump off from.
+<div class="alert alert-success">
+<p>Below are a series of openings for reflection, focused on (1) surprise; (2) sequence; (3) simile; (4) consumption; and (5) questions. After skimming through, <strong>start with the prompt that speaks the most to you right now, and then move on to others</strong> as you finish answering. Write your response somewhere you'll be able to refer back to it.</p><p><em>NB: Sharing the writing itself will be optional, but I do hope you'll share *some* thoughts aloud today</em>, using your notes to jump off from.</p>
+</div>
 
 We'll take about 10 minutes here.
 
