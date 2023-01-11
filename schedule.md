@@ -28,7 +28,7 @@ Unit IV | [Webslinging with Markup](#unit-4) | (weeks 8-11)
 Unit V | [Putting it Together](#unit-5) | (weeks 11-13)
 {: .table }
 
-<a id="current"/>
+
 <h2 id="unit-1">Unit I: What Makes Digital Media New?</h2>
 <h3><a href="{{site.github_url}}/plans/lesson-01">Lesson 1, Tuesday 1/10</a> – Introductions</h3>
 HW for next time:
@@ -46,7 +46,7 @@ HW for next time:
     - Especially if you don't know what "syntax highlighting" is, I recommend this [7-minute intro to VS Code](https://youtu.be/B-s71n0dHUk).
 
 
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-02">Lesson 2, Thursday 1/12</a> – Interfaces and Repositories</h3>
 
 HW for next time:
@@ -360,7 +360,7 @@ For next time:
 
 For next time:
 * Finish consolidation project by Sunday, if you haven't yet
-* Work to complete your final portfolio (due in our final exam slot)
+* Work to complete your final portfolio, which we now know is due **Tuesday, April 25th** at 5:50pm (our final exam slot)
 
 
 <div class="footnote-block" style="margin-top:3em;">
