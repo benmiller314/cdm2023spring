@@ -86,7 +86,7 @@ We'll be working in groups. I've used your Tech Comfort Survey responses from Le
 
 <div class="alert alert-success">
 Head to
-<strong><p><a href="https://github.com/benmiller314/cdm-gh-practice#readme">https://github.com/benmiller314/cdm-gh-practice</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, group GitHub anchors!)</p>
+<p><strong><a href="https://github.com/benmiller314/cdm-gh-practice#readme">https://github.com/benmiller314/cdm-gh-practice</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, group GitHub anchors!)</p>
 
 <p>Please start by skimming through the instructions in the README file, so you know where this is headed. (It'll spare you confusion later, based on past semesters!)</p>
 
