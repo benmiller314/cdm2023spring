@@ -76,6 +76,11 @@ Time to take these abstractions and put them into practice.
 We'll be working in groups. I've used your Tech Comfort Survey responses from Lesson 1 to build teams where at least one person has prior GitHub experience, so I hope you'll be able to help each other where needed!
 
 <!-- groups go here: -->
+* Asher, Jackson, Lauren, Suchi
+* Diego, Janna, Jordan, Kellen
+* Mike, Ana, Betul, Mark
+* Josie, Alexandra A, Ariana, Michael
+* Ben A, Alex L, Elio, Skylar, Taylor
 
 <div class="alert alert-success">
 Head to
