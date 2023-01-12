@@ -6,7 +6,7 @@
 
 **Texts to have read:**
 
-* The [syllabus](/{{site.course.base_url}}uploads) and [related Canvas modules]({{site.course.canvas_url}}/modules)
+* The [syllabus](/{{site.course.base_url}}uploads) and [related Canvas modules]({{site.canvas_url}}/modules)
 
 **Work to have achieved:**
 
@@ -17,20 +17,22 @@
 
 ## Plan for the Day
 
-<div class="alert alert-warning">
+<!-- <div class="alert alert-warning">
 We've had a request to record today's session. Is everyone okay with that?
-</div>
+</div> -->
 
-1. GitHub, part 2 (~15-20 min)
-  * what is a repository?
+1. GitHub, part 2 (~20-30 min)
+  * Why version control?
+  * Introduction to GitHub using basic text files
   * a demo of diffs<!-- repo, commit, history, diff -->
-2. Multiple views of the same files: web, Finder/Explorer, GH Desktop
-3. One more view: VS Code interface <!-- Ben demo; what's made easy? -->
-4. Shareback (~15 min)
-5. HW Preview
+  * Multiple views of the same files: web, Finder/Explorer, GH Desktop, text editor
+2. Your turn! Practice forking an assignment repository and editing its files (~20-30 min)
+3. Shareback and discuss (~10-15 min)
+4. HW Preview (2-3 min)
 
 Welcome back! I really enjoyed reading all the introductory posts and letters; thank you for those. If you haven't had a chance to get to know your classmates' opening posts, I encourage you to [check them out]({{site.github.issues_url}}/1)!
 
+And if you haven't posted one, please do! As noted in the contract, you get one free missed homework per unit, but you don't want to spend them before you really need them.
 
 
 ## 1. GitHub, part 2
@@ -39,11 +41,11 @@ In those intro posts, we saw that GitHub can host a discussion forum, so in that
 But its core functionality is meant to solve a different media problem: tracking changes to files over time.
 
 <figure role="figure">
-  <a href="http://phdcomics.com/comics/archive.php?comicid=1531"><img src="../assets/img/cham-phd101212s.gif" style="height: 600px; height: 70vh; width: auto;" alt="webcomic shows a series of panels renaming final.doc to final_rev2, final_rev_6.comments, and so on to absurdity" title="I'm not the first to use this comic in a discussion of version control. See, for example, https://caltechlibrary.github.io/git-desktop/aio/."></a>
+  <a href="http://phdcomics.com/comics/archive.php?comicid=1531"><img src="../assets/img/cham-phd101212s.gif" style="max-height: 600px; max-height: 70vh; width: auto;" alt="webcomic shows a series of panels renaming final.doc to final_rev2, final_rev_6.comments, and so on to absurdity" title="I'm not the first to use this comic in a discussion of version control. See, for example, https://caltechlibrary.github.io/git-desktop/aio/."></a>
   <figcaption>from <a href="http://phdcomics.com/comics/archive.php?comicid=1531">PhD Comics</a> by Jorge Cham (2012).</figcaption>
 </figure>
 
-Renaming ever more files isn't only messy to keep track of: it also eats up your storage space, especially if you're working with multimedia. What *git* allows you to do instead is to **track the differences** between versions of files **while keeping the same filename.** 
+Retaining and renaming ever more files isn't just messy to keep track of: it also eats up your storage space, especially if you're working with multimedia. What *git* allows you to do instead is to **track the differences** between versions of files **while keeping the same filename.** 
 
 
 <div class="alert alert-success">
@@ -84,11 +86,12 @@ We'll be working in groups. I've used your Tech Comfort Survey responses from Le
 
 <div class="alert alert-success">
 Head to
-<strong><a href="https://github.com/benmiller314/cdm-gh-practice#readme">https://github.com/benmiller314/cdm-gh-practice</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, group GitHub anchors!)
+<strong><p><a href="https://github.com/benmiller314/cdm-gh-practice#readme">https://github.com/benmiller314/cdm-gh-practice</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, group GitHub anchors!)</p>
 
-Please start by skimming through the instructions in the README file, so you know where this is headed. (It'll spare you confusion later, based on past semesters!)
+<p>Please start by skimming through the instructions in the README file, so you know where this is headed. (It'll spare you confusion later, based on past semesters!)</p>
 
-I'll give you the overview while we're still together:
+<p>I'll give you the overview while we're still together:</p>
+
 <ol><li>Make a copy of the repository for your group</li>
 <li>Write a short story, one line per person, committing every time you add a line</li>
 <li>File a <em>pull request</em> to merge it back to my repo</li></ol>
@@ -113,8 +116,16 @@ What was exciting? What was challenging? Anyone get to the EXT?
   - Quaid, Fatema. "A Haunted Halt." *Digital Media and Pedagogy Showcase Fall 2019.* [http://dmap.pitt.edu/node/295](http://dmap.pitt.edu/node/295).
   
 
-* **Write** a short blog post to the appropriate thread [on the issue queue]({{site.github.issues_url}}): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
+* **Write** a short blog post to the appropriate thread [on the issue queue]({{site.github.issues_url}}): 
+    - What do you notice, i.e. what stands out while reading or listening? 
+    - What does that suggest, or what does it make you wonder?
 
 
 
 ## EXT: VS Code interface
+
+Using those same questions from above:
+
+- How is the space laid out?
+- What's given the most prominent visual focus? Secondary focus?
+- What features/tools do you have quick access to?
