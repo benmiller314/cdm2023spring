@@ -46,7 +46,6 @@ HW for next time:
     - Especially if you don't know what "syntax highlighting" is, I recommend this [7-minute intro to VS Code](https://youtu.be/B-s71n0dHUk).
 
 
-<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-02">Lesson 2, Thursday 1/12</a> – Interfaces and Repositories</h3>
 
 HW for next time:
@@ -57,7 +56,7 @@ HW for next time:
 
 
 
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-03">Lesson 3, Tuesday 1/17</a> – Digital Affordances</h3>
 <!-- Be sure to clarify that what you want is a single folder and a single file, so you can track its evolution. Some people always seem to want to create new repos for each draft, which defeats the purpose. -->
 
@@ -66,6 +65,7 @@ For next time:
 * **Download** the [Audacity 3](https://www.audacityteam.org/download/) audio editor if you haven't yet, or update to the latest version if you already have it.
   * *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)
 * **Watch** the recommended [Audacity 3 tutorial](https://www.youtube.com/watch?v=8oOaXWdmMcc) and come in ready to play with the software (and ask any questions that come up)
+* **Read** the excerpt from *Writer/Designer* on assets and fair use, plus (optionally) a webcomic on Creative Commons. [NB: this was moved up, so it's okay if you don't get to it until the weekend] <!-- REMOVE THIS NOTE NEXT TIME YOU TEACH IT -->
 <!-- * **Schedule** a one-on-one conference with Ben using https://benmiller314.youcanbook.me -->
 
 
@@ -78,7 +78,6 @@ For next time:
 For next time:
 
 * **Read and listen** to the audio recording advice (Fowkes and MacAdam) if you haven't yet
-* **Read** the excerpt from *Writer/Designer* on assets and fair use, plus (optionally) a webcomic on Creative Commons. <!-- FOR NEXT TIME: consider whether you'd want to do Perusall for this, and skip the in-class discussion. Depends a lot on how busy the rest of the HW is; in spring 2021 I don't regret not doing it that way, b/c there was already so much other stuff to do. But if there were to be less writing... -->
 * **Write** a proposal for your audio narrative, including a prospective asset list (as per *W/D*); post to <a href="{{site.github.issues_url}}">the Issues page</a>.
 <!-- * **Listen to and record** a piece of your local soundscape THIS IS GOOD, BUT I JUST DON'T HAVE TIME IN THE SPRING -->
 * **Begin** sourcing the sounds you'll need
