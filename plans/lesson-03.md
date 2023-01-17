@@ -104,9 +104,10 @@ As I explained in the syllabus, your first project is to **arrange layers of sou
 
 <div class="alert alert-success">
 Head over to <strong><a href="https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}">github.com/benmiller314/audio-narrative-{{site.course.slugterm}}</a></strong>, and <strong>fork</strong> the repo to take control of it.
+</div>
 
 <figure><img alt="the fork button is part of the first bank of options after the repository name" src="../assets/img/github--fork.png" /></figure>
-</div>
+
 
 ### 3a. Let's read!
 
