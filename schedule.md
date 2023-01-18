@@ -56,7 +56,6 @@ HW for next time:
 
 
 
-<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-03">Lesson 3, Tuesday 1/17</a> – Digital Affordances</h3>
 <!-- Be sure to clarify that what you want is a single folder and a single file, so you can track its evolution. Some people always seem to want to create new repos for each draft, which defeats the purpose. -->
 
@@ -68,7 +67,7 @@ For next time:
 * **Read** the excerpt from *Writer/Designer* on assets and fair use, plus (optionally) a webcomic on Creative Commons. [NB: this was moved up, so it's okay if you don't get to it until the weekend] <!-- REMOVE THIS NOTE NEXT TIME YOU TEACH IT -->
 <!-- * **Schedule** a one-on-one conference with Ben using https://benmiller314.youcanbook.me -->
 
-
+<a id="current"/>
 <h2 id="unit-2">Unit II: Soundscapes and Soundwriting</h2>
 
 <h3><a href="{{site.github_url}}/plans/lesson-04">Lesson 4, Thursday 1/19</a> – Audacity; Sound On, Sound Off<!-- discuss posts. skip demo. play with audacity. generative writing toward a proposal -->
