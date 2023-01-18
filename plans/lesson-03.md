@@ -136,12 +136,15 @@ Go through overview, constraints, deadlines. Explain about parachute prompts.
 Next time, we'll clone and play around with the files in the "in-class exercise" directory.
 
 
+<!-- NOTE FOR NEXT YEAR: I had a full 15 minutes left! I should have been able to do the generative writing exercise today! -->
+
+
 ## HW for next time:
 * **Download** the [Audacity 3](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
    - NB: some source sites will try to trick you into downloading unrelated software. Don't fall for it. Start on the audacityteam.org page, and read the links carefully.
    - *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html), which expands the file types Audacity can handle. Might be useful for imports from your phone, depending on your device!
    - *Optionally* download a phone recording app. Your device may already have a decent default voice recorder that you can use; let the class know if you have suggestions (or anti-suggestions). I've had success with Parrot in the past.
-* **Watch** this recommended [Audacity 3 tutorial](https://www.youtube.com/watch?v=8oOaXWdmMcc) (about 20 minutes long) and come in ready to play with the software (and ask any questions that come up)
+* **Watch** this recommended [Audacity 3 tutorial](https://www.youtube.com/watch?v=O1WzmigxZdM) (about 20 minutes long) and come in ready to play with the software (and ask any questions that come up)
 * **Pack** headphones – we should have time to practice!
 * Finally, **read** one chapter from the book _Writer/Designer_ (Ball, Sheppard, and Arola, eds), which is <a title="not posted to preserve the limited distribution that helps justify my fair use claim (as does my colorless copy and the limited amount copied, relative to the book)" href="{{site.canvas_url}}/external_tools/673?display=borderless">posted to the Perusall social annotation software on Canvas</a>. It's about sources, assets, and citation in the context of multimedia projects.
   - Perusall allows you to take notes in the margins that other people in the class can see. This is optional, but highly encouraged!

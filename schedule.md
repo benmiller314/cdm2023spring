@@ -64,7 +64,7 @@ For next time:
 
 * **Download** the [Audacity 3](https://www.audacityteam.org/download/) audio editor if you haven't yet, or update to the latest version if you already have it.
   * *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)
-* **Watch** the recommended [Audacity 3 tutorial](https://www.youtube.com/watch?v=8oOaXWdmMcc) and come in ready to play with the software (and ask any questions that come up)
+* **Watch** the recommended [Audacity 3 tutorial](https://www.youtube.com/watch?v=O1WzmigxZdM) and come in ready to play with the software (and ask any questions that come up)
 * **Read** the excerpt from *Writer/Designer* on assets and fair use, plus (optionally) a webcomic on Creative Commons. [NB: this was moved up, so it's okay if you don't get to it until the weekend] <!-- REMOVE THIS NOTE NEXT TIME YOU TEACH IT -->
 <!-- * **Schedule** a one-on-one conference with Ben using https://benmiller314.youcanbook.me -->
 
