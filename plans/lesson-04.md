@@ -94,7 +94,7 @@ Your task for the next 20 minutes or so is to try mixing, matching, splitting, s
 <li>Play with the Effects menus: some good starting points include fade in/out, repeat, change tempo, delay, low pass filter. Check the "manage" button in Effects dialog boxes to see if there are any presets to try, or the ? button to learn more about that particular effect.</li>
 <li>Try splitting the speech at moments of silence to extract individual words, using Edit > Clip Boundaries > Split (or Split New). (NB: we can also have some fun with reordering the words, but please don't push those doctored speeches to GitHub: we don't need any more fake news circulating!)</li>
 <li>etc</li>
-</ul>
+</ol>
 </div>
 
 
