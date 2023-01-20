@@ -87,14 +87,14 @@ I'll ask you all to work with the same materials, just for today. In the audio-n
 
 <div class="alert alert-success">
 Your task for the next 20 minutes or so is to try mixing, matching, splitting, sliding, realigning, and otherwise messing around with these tracks.
-<ol>
-<li>To get started, <strong>use File > Import > Audio...</strong> to pull in an mp3 from the in-class-activity folder.
-<li>Play with the strategies from last class: how does the mood change as you change the soundtrack? The left/right mix? The alignment? The tempo?</li>
-<li>Experiment with what tools the context menus and track menus offer: what does Audacity <em>expect</em> you to want to do, based on what it makes readily available?</li>
-<li>Play with the Effects menus: some good starting points include fade in/out, repeat, change tempo, delay, low pass filter. Check the "manage" button in Effects dialog boxes to see if there are any presets to try, or the ? button to learn more about that particular effect.</li>
-<li>Try splitting the speech at moments of silence to extract individual words, using Edit > Clip Boundaries > Split (or Split New). (NB: we can also have some fun with reordering the words, but please don't push those doctored speeches to GitHub: we don't need any more fake news circulating!)</li>
-<li>etc</li>
-</ol>
+  <ol>
+    <li>To get started, <strong>use File > Import > Audio...</strong> to pull in an mp3 from the in-class-activity folder.</li>
+    <li>Play with the strategies from last class: how does the mood change as you change the soundtrack? The left/right mix? The alignment? The tempo?</li>
+    <li>Experiment with what tools the context menus and track menus offer: what does Audacity <em>expect</em> you to want to do, based on what it makes readily available?</li>
+    <li>Play with the Effects menus: some good starting points include fade in/out, repeat, change tempo, delay, low pass filter. Check the "manage" button in Effects dialog boxes to see if there are any presets to try, or the ? button to learn more about that particular effect.</li>
+    <li>Try splitting the speech at moments of silence to extract individual words, using Edit > Clip Boundaries > Split (or Split New). (NB: we can also have some fun with reordering the words, but please don't push those doctored speeches to GitHub: we don't need any more fake news circulating!)</li>
+    <li>etc</li>
+  </ol>
 </div>
 
 
@@ -117,53 +117,58 @@ For this activity, headphones will help you isolate your Audacity playback from 
 <div class="alert alert-warning">NB: If your computer can't handle both Zoom and Audacity, it's okay (not ideal, but okay) to drop out of the call for a few minutes while you're working. But do <strong>set a timer</strong>, so you can check back in after about 20 minutes.</div>
 -->
 
-The [tutorial](https://www.youtube.com/watch?v=O1WzmigxZdM) I asked you to watch for homework should have given you the overview you need to jump in and get editing, but do call me in if you have questions! <!-- You can use the "Ask for Help" button (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/ask-for-help-icon.png" alt="ask for help button, which shows a question mark in a circle" class="d-inline-block" />) in your meeting menu. -->
+<p>The <a href="https://www.youtube.com/watch?v=O1WzmigxZdM">tutorial</a> I asked you to watch for homework should have given you the overview you need to jump in and get editing, but do call me in if you have questions!</p> <!-- You can use the "Ask for Help" button (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/ask-for-help-icon.png" alt="ask for help button, which shows a question mark in a circle" class="d-inline-block" />) in your meeting menu. -->
 
 
-EXT?: Audacity is complex enough that I'm really expecting you can fill the time here without an EXT: there are dozens of automatic effects, each with their own options and help pages! But if you're really happy with what you've achieved, go ahead and save the project, then mute the current music and add a different soundtrack. How does that shift your perception of the edits you'd already made? What else does it make you want to try?
+<p>EXT?: Audacity is complex enough that I'm really expecting you can fill the time here without an EXT: there are dozens of automatic effects, each with their own options and help pages! But if you're really happy with what you've achieved, go ahead and save the project, then mute the current music and add a different soundtrack. How does that shift your perception of the edits you'd already made? What else does it make you want to try?</p>
 
 
-## 3. Share and Enjoy (5-10 min)
+<h2>3. Share and Enjoy (5-10 min)</h2>
 
-I'd love to hear some of these, if time allows! 
+<p>I'd love to hear some of these, if time allows! </p>
 <!-- Set your output device as shown above to play through Zoom. -->
 
 
-### Side note on saving: project files vs. rendered files
+<h3>Side note on saving: project files vs. rendered files</h3>
 
-**Audacity project files, with extension .aup3, are not playable in any program other than Audacity.** Strictly speaking, they're not actually sound files: they're a database *of* a large number of sound files, bundled together with the files themselves, plus information about track display sizes, whether they're muted, how much they're panned left or right, and so on.
+<p>**Audacity project files, with extension .aup3, are not playable in any program other than Audacity.** Strictly speaking, they're not actually sound files: they're a database *of* a large number of sound files, bundled together with the files themselves, plus information about track display sizes, whether they're muted, how much they're panned left or right, and so on.</p>
 
-(In fact, until Audacity 3.x, all these files and the index of metadata used to be separate. It's a mixed bag that they're not any more: on the one hand, it's harder to mess up. On the other, it makes that unified file a lot larger.)
+<p>(In fact, until Audacity 3.x, all these files and the index of metadata used to be separate. It's a mixed bag that they're not any more: on the one hand, it's harder to mess up. On the other, it makes that unified file a lot larger.)</p>
 
-**To make the file playable, you have to *render* it by using File > Export As.** You're probably fine to use .mp3 format for most purposes.
+<p><strong>To make the file playable, you have to <em>render</em> it by using File &gt; Export As.</strong> You're probably fine to use .mp3 format for most purposes.</p>
 
 <div class="alert alert-warning">
 NB: I believe it'll export the whole file, across all layers, as long as nothing's selected - but it might try to export only your selection if something *is* selected when you start the export. Something to watch out for, at any rate.
 </div>
 
-## 4. Generative loop writing
+<h2>4. Generative loop writing</h2>
 
-As you know, the project proposal is due by next class; it should include some basic premise of your narrative;
-some sense of setting; a link to your project repository; and a table of potential assets like the one you read about in _Writer/Designer_.
+<p>As you know, the project proposal is due by next class; it should include some basic premise of your narrative;
+some sense of setting; a link to your project repository; and a table of potential assets like the one you read about in <em>Writer/Designer</em>.</p>
+
+<p>To help you get there, I'd like to spend the remainder of our in-class time using writing – some listing and looping – as a way to get your ideas flowing. <strong>As I ask the following questions, pause and reach out with your feelings until you sense an answer, or more than one, and then write down whatever comes.</strong> I won't collect these, so they're private to you. But I hope you'll find them useful for getting to something shareable, moving forward.</p>
+
+<ol>
+  <li><p>In the process of writing with sound, you're going to spend a big chunk of time listening and relistening and looping, so you want to pick a place you're likely to enjoy hanging out in.</p>
+  <p>What <em>places</em> (physical, virtual, or imaginary) come to mind as energizing for you to unpack into layers, and reassemble? In other words: within what <em>soundscapes</em> might you anchor your narrative? <strong>Make a list.</strong> Anything you're forgetting?</li>
+  <li>Choosing one item from your list you could work with for now, ask yourself: How would you represent that <em>environment</em>sonically?
+    <ul>
+      <li>e.g. What sounds are relatively stable, or sustained, in that place? </li>
+      <li>e.g. What incidental, or foreground, sounds do you associate with that place?</li>
+    </ul>
+  </li>
+  <li>Still in the same environment: What kinds of <em>stories</em> happen there? Again, make a list. </li>
+  <li>Look over your list of stories, and ask yourself: which of these could you reasonably tell within a few minutes? which are long enough to tell <em>for</em> a few minutes?</li>
+  <li>Choosing one story to work with for now – you can always come back to other items on the list over the weekend – ask yourself: 
+    <ul>
+      <li>What are the pieces of this story? What are the actions, structures, or sequences?</li>
+      <li>How would you represent each action _for audio_? What sounds, signals, or setups could help a listening audience know what was happening?</li>
+    </ul>
+  </li>
+</ol>
 
 
-To help you get there, I'd like to spend the remainder of our in-class time using writing – some listing and looping – as a way to get your ideas flowing. **As I ask the following questions, pause and reach out with your feelings until you sense an answer, or more than one, and then write down whatever comes.** I won't collect these, so they're private to you. But I hope you'll find them useful for getting to something shareable, moving forward.
-
-1. In the process of writing with sound, you're going to spend a big chunk of time listening and relistening and looping, so you want to pick a place you're likely to enjoy hanging out in. \
-\
-What _places_ (physical, virtual, or imaginary) come to mind as energizing for you to unpack into layers, and reassemble? In other words: within what _soundscapes_ might you anchor your narrative? **Make a list.** Anything you're forgetting?
-2. Choosing one item from your list you could work with for now, ask yourself: How would you represent that _environment_ sonically? 
-  * e.g. What sounds are relatively stable, or sustained, in that place? 
-  * e.g. What incidental, or foreground, sounds do you associate with that place?
-3. Still in the same environment: What kinds of _stories_ happen there? Again, make a list. 
-4. Look over your list of stories, and ask yourself: which of these could you reasonably tell within a few minutes? which are long enough to tell _for_ a few minutes?
-5. Choosing one story to work with for now – you can always come back to other items on the list over the weekend – ask yourself: 
-  * What are the pieces of this story? What are the actions, structures, or sequences?
-  * How would you represent each action _for audio_? What sounds, signals, or setups could help a listening audience know what was happening?
-
-
-
-## EXT: Studio time
+<h2>EXT: Studio time</h2>
 
 If we have more time left in class, go ahead and start writing up your proposal – or start testing the feasibility of what you want to propose, e.g. by searching for sounds you think you'll need, or opening further Audacity tutorials.
 
