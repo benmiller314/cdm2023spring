@@ -184,20 +184,20 @@ Call me in (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-mee
 
 ### Using Sources
 
-* True or false: if you can find it on the internet, you can use it in your project.
-* True or false: the only sources you can use in this project are those you record yourself.
-* True or false: if you record your own sources, you don't have to cite them.
-* True or false: if you use a source with a Creative Commons license, you don't have to cite it.
-* What's the difference between fair use and Creative Commons?
-* How would you define a "credible citation" in relation to the audio narratives you've proposed?
-* Why do you think Ball, Sheppard, and Arola are so insistent about folder structure and file naming conventions?
+1. True or false: if you can find it on the internet, you can use it in your project.
+2. True or false: the only sources you can use in this project are those you record yourself.
+3. True or false: if you record your own sources, you don't have to cite them.
+4. True or false: if you use a source with a Creative Commons license, you don't have to cite it.
+5. What's the difference between fair use and Creative Commons?
+6. How would you define a "credible citation" in relation to the audio narratives you've proposed?
+7. Why do you think Ball, Sheppard, and Arola are so insistent about folder structure and file naming conventions?
 
 ### Recording Audio
 
-* What's one way to make sure you're recording the sound you want to (and not, say, the loud bus passing by your conversation)? <!-- headphones -->
-* What do Fowkes and MacAdam consider tempting cliches of soundwriting, and how do they suggest getting past them?  <!-- birds chirping, cars rolling by (which also sounds like water), kids at a playground. Get past with strong voiceover writing; contextualizing structure; specific instances of a theme. -->
-* Would you (each of you, specifically, for this project) want to work from a written script? Why or why not?
-* Would you (again, each of you in <!--the breakout room--> your group, today) want to incorporate human voices in your audio narratives? How or how much, and why (or why not)?
+8. What's one way to make sure you're recording the sound you want to (and not, say, the loud bus passing by your conversation)? <!-- headphones -->
+9. What do Fowkes and MacAdam consider tempting cliches of soundwriting, and how do they suggest getting past them?  <!-- birds chirping, cars rolling by (which also sounds like water), kids at a playground. Get past with strong voiceover writing; contextualizing structure; specific instances of a theme. -->
+10. Would you (each of you, specifically, for this project) want to work from a written script? Why or why not?
+11. Would you (again, each of you in <!--the breakout room--> your group, today) want to incorporate human voices in your audio narratives? How or how much, and why (or why not)?
 
 ### EXT: Bonus questions for the swift
 
