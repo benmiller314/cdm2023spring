@@ -7,7 +7,7 @@
 
 ## Plan for the day
 
-1. Final Repo Configurations: git-lfs and .gitignore (5-10 min)
+1. Final Repo Configurations: dealing with large files and sources you shouldn't distribute (5-10 min)
 2. Composing Advice, Questions and Answers
 3. Key Concepts and Practical Takeaways from the Reading (10-20 min)
 4. Homework: preview (5 min)
@@ -30,37 +30,43 @@ The setup is pretty simple, but it does require access to the command line.
 
 Once you have the software, follow these steps to activate it:
 
-1. In either platform, open your repository in GitHub Desktop, then use the Repository menu to "Open in Terminal."
+<ol>
+  <li>In either platform, open your repository in GitHub Desktop, then use the Repository menu to "Open in Terminal."
+    <figure>
+      <img alt="screenshot of the Repository menu in GitHub Desktop" src="../assets/img/github-desktop--open-in-terminal.png" />
+      <figcaption>You can find the "Open in Terminal" command under the Repository menu</figcaption>
+    </figure>
+  </li>
 
-<figure><img alt="screenshot of the Repository menu in GitHub Desktop" src="../assets/img/github-desktop--open-in-terminal.png" />
-<figcaption>You can find the "Open in Terminal" command under the Repository menu</figcaption>
-</figure>
+  <li>In the command line window that opens, type <code>git lfs install</code> and hit enter.</li>
 
-2. In the command line window that opens, type `git lfs install` and hit enter.
-
-3. Next, type `git lfs track "*.aup3"` and hit enter. (NB: You could also add other extensions, if you want, by swapping out the `aup3` and doing it again.)
-
-4. Head back to GitHub Desktop, where you should see a new file called `.gitattributes`. Commit the change to that file, and that's it! Now anything that matches the filetype you selected in step 3 will be tracked using LFS.
+  <li>Next, type <code>git lfs track "*.aup3"</code> and hit enter. (NB: You could also add other extensions, if you want, by swapping out the <code>aup3</code> and doing it again.)</li>
+  
+  <li>Head back to GitHub Desktop, where you should see a new file called <code>.gitattributes</code>. Commit the change to that file, and that's it! Now anything that matches the filetype you selected in step 3 will be tracked using LFS.</li>
+</ol>
 
 
 ### Ignoring files or folders
 
 An even easier process will protect you from accidentally oversharing source files. 
 
-1. In your repository, using Finder/Explorer, create a new folder and give it a name; for the sake of these instructions, I'll call it "sources". 
+<ol>
+  <li>In your repository, using Finder/Explorer, create a new folder and give it a name; for the sake of these instructions, I'll call it "sources".</li>
 
-2. Now, in GitHub Desktop, I'm going to edit the Repository settings using the same menu as before.
+  <li>Now, in GitHub Desktop, I'm going to edit the Repository settings using the same menu as before.
+    <figure><img alt="GitHub Desktop repository menu, highlighting the repository settings option" src="../assets/img/github-desktop--repository-settings.png" /></figure>
+  </li>
 
-<figure><img alt="GitHub Desktop repository menu, highlighting the repository settings option" src="../assets/img/github-desktop--repository-settings.png" /></figure>
+  <li>In the dialog box that comes up, select "Ignored files," and then add a new line with the text <code>sources/**</code>.
+    <figure><img alt="GitHub Desktop ignored files dialog box" src="../assets/img/github-desktop--ignored-files.png"></figure>
+  </li>
 
-3. In the dialog box that comes up, select "Ignored files," and then add a new line with the text `sources/**`.
-
-<figure><img alt="GitHub Desktop ignored files dialog box" src="../assets/img/github-desktop--ignored-files.png">
-
-4. When you click Save, you'll see a new file called ".gitignore" in your list of changes. Commit the change, and now Git will ignore every file in that sources directory.
+  <li>When you click Save, you'll see a new file called ".gitignore" in your list of changes. Commit the change, and now Git will ignore every file in that sources directory.
+  </li>
+</ol>
 
 <div class="alert alert-info">
-EXT: If you finish that and you're waiting for the rest of us, read through these Q&As and pieces of advice:
+EXT: If you finish that and you're waiting for the rest of us, read through the next section of Q&amp;As and pieces of advice.
 </div>
 
 ## Composing advice, based on proposals
@@ -77,6 +83,10 @@ Lots of great ideas in those proposals. My small bits of broadly applicable advi
 
 <details><summary>Roll Tape</summary>
   On the flip side, if you're proposing something where you're not sure what you'll find, consider a journalistic approach: record more than you think you'll need; narrate what you're doing as you're doing it; then add a post-hoc voiceover that makes sense of (tells the story of) what you ultimately found.
+</details>
+
+<details><summary>Need to show time passing within a single setting? Try a crossfade</summary>
+  If your proposal covers a long time – a full day, a full game, etc – you won't be able to represent it minute by minute. Instead, you'd normally want to jump from moment to moment with a sharp cut from one background track to another. But if you want to give a sense of time passing without changing where you are, one option is to fade out from the same background track back to itself, but later on, so there's still a sense of change within the sameness.
 </details>
 
 ## Q & A

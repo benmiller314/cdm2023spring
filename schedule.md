@@ -67,7 +67,7 @@ For next time:
 * **Read** the excerpt from *Writer/Designer* on assets and fair use, plus (optionally) a webcomic on Creative Commons. [NB: this was moved up, so it's okay if you don't get to it until the weekend] <!-- REMOVE THIS NOTE NEXT TIME YOU TEACH IT -->
 <!-- * **Schedule** a one-on-one conference with Ben using https://benmiller314.youcanbook.me -->
 
-<a id="current"/>
+
 <h2 id="unit-2">Unit II: Soundscapes and Soundwriting</h2>
 
 <h3><a href="{{site.github_url}}/plans/lesson-04">Lesson 4, Thursday 1/19</a> – Audacity; Sound On, Sound Off<!-- discuss posts. skip demo. play with audacity. generative writing toward a proposal -->
@@ -82,7 +82,7 @@ For next time:
 * **Begin** sourcing the sounds you'll need
 * **Bring** headphones so you can work in class
 <!-- Ben HW: bring in sounds to practice with -->
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-05">Lesson 5, Tuesday 1/24</a> – Recording, Ethics, Studio<!-- reading comprehension, general proposal advice, but mostly studio so they can turn in a preview on Thurs --></h3>
 
 
