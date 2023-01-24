@@ -14,11 +14,11 @@
 5. **Studio time** (40-50 min)
 
 
-## Final Repo Configurations: git-lfs and .gitignore
+## 1. Final Repo Configurations: git-lfs and .gitignore
 
 There are two features of your repository that we didn't yet set up, but which should save you headaches as you get into the thick of the project:
 
-### Git Large File Storage
+### 1a. Git Large File Storage
 
 Large file storage, or LFS, is a way to avoid counting large project files against your free storage. Essentially, it moves files you designate onto a separate server, and replaces them with a unique pointer to that file.
 
@@ -46,7 +46,7 @@ Once you have the software, follow these steps to activate it:
 </ol>
 
 
-### Ignoring files or folders
+### 1b. Ignoring files or folders
 
 An even easier process will protect you from accidentally oversharing source files. 
 
@@ -69,7 +69,7 @@ An even easier process will protect you from accidentally oversharing source fil
 EXT: If you finish that and you're waiting for the rest of us, read through the next section of Q&amp;As and pieces of advice.
 </div>
 
-## Composing advice, based on proposals
+## 2a. Composing advice, based on proposals
 
 Lots of great ideas in those proposals. My small bits of broadly applicable advice:
 
@@ -89,7 +89,7 @@ Lots of great ideas in those proposals. My small bits of broadly applicable advi
   If your proposal covers a long time – a full day, a full game, etc – you won't be able to represent it minute by minute. Instead, you'd normally want to jump from moment to moment with a sharp cut from one background track to another. But if you want to give a sense of time passing without changing where you are, one option is to fade out from the same background track back to itself, but later on, so there's still a sense of change within the sameness.
 </details>
 
-## Q & A
+## 2b. FAQ / Q & A
 
 And here are some great questions that came up in Perusall that I want to be sure to answer publicly:
 
@@ -102,7 +102,7 @@ And here are some great questions that came up in Perusall that I want to be sur
 <details><!-- generative AI -->
 <summary>Recently with the invention of neat AI systems like ChatGPT and Dall-E copyright has become a topic I'm more interested in. While ChatGPT and Dall-E generate text and image respectively, what happens when an AI generates music. Can someone copyright that as their own?</summary>
 <p>It's an open question, for now, and a tricky one! Part of the complication is how these AIs are trained: usually, by scraping and processing many thousands of previous creative works, including many that are under copyright. The question then becomes whether the resulting work is sufficiently transformative of the original art. If you do a targeted scrape of the collected works of Lin-Manuel Miranda and specifically ask the AI to produce music in the style of Lin-Manuel Miranda, that's probably too directly derivative. If you instead ask it to produce music in the style of Mozart, you might get something more new and strange &ndash; and therefore more defensible under fair use precedents. (Likewise, the more diverse the training set.)</p>
-<p>Another part of the complication is the question of who would counts as the "creator" of algorithmically generated works: the AI itself? the people who fed it training data? the people who wrote the algorithm? the people who passed the algorithm a prompt to generate from?</p>
+<p>Another part of the complication is the question of who counts as the "creator" of algorithmically generated works: the AI itself? the people who fed it training data? the people who wrote the algorithm? the people who passed the algorithm a prompt to generate from?</p>
 <p>This is so new that it's only just starting to go through the courts, and it wouldn't be surprising for the courts to reach different conclusions that then have to be resolved higher up in the system. For those interested in reading more, think pieces abound. Here are a few I found just now: 
   <ul>
     <li>Brittain, Blake. 2023. “Computer Scientist Says AI ‘artist’ Deserves Its Own Copyrights.” Reuters, January 11, 2023, sec. Litigation. <a href="https://www.reuters.com/legal/litigation/computer-scientist-says-ai-artist-deserves-its-own-copyrights-2023-01-11">https://www.reuters.com/legal/litigation/computer-scientist-says-ai-artist-deserves-its-own-copyrights-2023-01-11</a>.</li>
@@ -152,19 +152,21 @@ This came in late enough that I don't have a full write-up. What do you all thin
 </details>
 -->
 
-
-<details><summary>How does GitHub stack up to actual cloud storage services? Should we be mindful of how many commits of larger (non-text) files we make?</summary>
+<details><!-- GH as storage-->
+<summary>How does GitHub stack up to actual cloud storage services? Should we be mindful of how many commits of larger (non-text) files we make?</summary>
 This came in late enough that I don't have a full write-up, but two short answers: (1) this is why we need <a href="https://git-lfs.github.com/">git-lfs</a>, which I've already set up on the soundscape repository; (2) this is one reason to keep your full sources in a folder that you <a href="https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files">.gitignore</a></details>
 
 
+<div class="alert alert-success">
 Has anyone tried out any of the sites linked to from our plentiful <a href="{{site.github_url}}/resources">Resources</a> page? Any recommendations, warnings, or other advice for your classmates?
 
 Note that there are sections for both free/licensed sounds and music, and also (separately) for audio-unit-specific advice and examples.
+</div>
 
 
-## Key Concepts and Practical Takeaways (10-20 min)
+## 3. Key Concepts and Practical Takeaways (10-20 min)
 
-In a minute, I'll ask you to group up and work through the questions below about the reading/listening from the last week, taking notes in the shared google doc ([bit.ly/cdm2023spring-notes](https://bit.ly/cdm2023spring-notes)). Some questions you should be able to zip through quickly; others may require more discussion. (Heads up: even several of the True/False questions are more complicated than that binary implies! ;)
+In a minute, I'll ask you to group up and work through the questions below about the reading/listening from the last week, taking notes in the shared google doc ([bit.ly/cdm2023spring-notes](https://bit.ly/cdm2023spring-notes#heading=h.7q6z70363fse)). Some questions you should be able to zip through quickly; others may require more discussion. (Heads up: even several of the True/False questions are more complicated than that binary implies! ;)
 
 Let's see what happens if we run with the groups from lesson 2, subject to roster changes since then:
 
@@ -182,7 +184,7 @@ Let's see what happens if we run with the groups from lesson 2, subject to roste
 Call me in (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/ask-for-help-icon.png" alt="ask for help button, which shows a question mark in a circle" class="d-inline-block" />) if you can't come to a resolution!
 -->
 
-### Using Sources
+### 3a. Using Sources
 
 1. True or false: if you can find it on the internet, you can use it in your project.
 2. True or false: the only sources you can use in this project are those you record yourself.
@@ -192,7 +194,7 @@ Call me in (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-mee
 6. How would you define a "credible citation" in relation to the audio narratives you've proposed?
 7. Why do you think Ball, Sheppard, and Arola are so insistent about folder structure and file naming conventions?
 
-### Recording Audio
+### 3b. Recording Audio
 
 8. What's one way to make sure you're recording the sound you want to (and not, say, the loud bus passing by your conversation)? <!-- headphones -->
 9. What do Fowkes and MacAdam consider tempting cliches of soundwriting, and how do they suggest getting past them?  <!-- birds chirping, cars rolling by (which also sounds like water), kids at a playground. Get past with strong voiceover writing; contextualizing structure; specific instances of a theme. -->
@@ -213,7 +215,7 @@ Call me in (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-mee
 As time allows, Let's talk through any <strong>questions or tensions</strong> that came up. I especially want to make sure we're all on the same page about those fuzzier "True/False" questions.</div>
 
 
-<h3 id="hw-preview">3. Homework preview (5 min)</h3>
+<h2 id="hw-preview">4. Homework preview (5 min)</h2>
 <a href="#hw">Jump down</a>
 
 
@@ -253,4 +255,4 @@ To help with goal-setting and reflection (and, again, so I can figure out where 
   </ul>
 </li>
 </ul>
-<a href="hw-preview">Jump back to studio instructions</a>
+<a href="#hw-preview">Jump back to studio instructions</a>
