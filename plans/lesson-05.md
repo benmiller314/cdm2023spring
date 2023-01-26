@@ -1,7 +1,7 @@
 
 # Sources, Citation, Studio
 
-**Texts to have read / listened to:** _Writer/Designer_ on ["Working with Multimodal Assets and Sources"](https://app.perusall.com/courses/2224-engcmp-0610-sec1070-composing-digital-media/_/dashboard/assignments/EWFJ8WNcdaCAusYgM) (Ball, Sheppard, Arola); Stuart Fowkes on [field recording](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/); Alison MacAdam on [breathing life into audio scenes](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes); and optionally some overviews of [CC licenses](https://wiki.creativecommons.org/wiki/Howitworks_Comic1) and [Fair Use](https://fairuse.stanford.edu/overview/fair-use).
+**Texts to have read / listened to:** _Writer/Designer_ on ["Working with Multimodal Assets and Sources"]({{site.canvas_url}}/external_tools/673?display=borderless) (Ball, Sheppard, Arola); Stuart Fowkes on [field recording](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/); Alison MacAdam on [breathing life into audio scenes](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes); and optionally some overviews of [CC licenses](https://wiki.creativecommons.org/wiki/Howitworks_Comic1) and [Fair Use](https://fairuse.stanford.edu/overview/fair-use).
 
 **Work to have achieved:** a proposal for the audio narrative, posted to the [issue queue]({{site.github.issues_url}}/3)
 
@@ -156,6 +156,16 @@ This came in late enough that I don't have a full write-up. What do you all thin
 <summary>How does GitHub stack up to actual cloud storage services? Should we be mindful of how many commits of larger (non-text) files we make?</summary>
 This came in late enough that I don't have a full write-up, but two short answers: (1) this is why we need <a href="https://git-lfs.github.com/">git-lfs</a>, which I've already set up on the soundscape repository; (2) this is one reason to keep your full sources in a folder that you <a href="https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files">.gitignore</a></details>
 
+<details><!-- screencasts! -->
+<summary>Screencast of submission process</summary>
+
+<figure>
+<figcaption>Submitting a project preview: Save, Export, Commit, Push</figcaption>
+<iframe src="https://pitt.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=eb1ab95d-5f91-4081-8602-ae2a0115f1db&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+</figure>
+
+</details>
+
 
 <div class="alert alert-success">
 Has anyone tried out any of the sites linked to from our plentiful <a href="{{site.github_url}}/resources">Resources</a> page? Any recommendations, warnings, or other advice for your classmates?
@@ -231,7 +241,7 @@ Warning: <strong>don't use the GitHub <em>website</em> for Audacity files!</stro
 The goal for now is to get a feel for how you work with audio, not to have a finished product. On Thursday, we'll use your experience to refine our shared baseline criteria and brainstorm some aspirational goals.
 
 <div class="alert alert-success">
-To help with goal-setting and reflection (and, again, so I can figure out where I can be most helpful), please <strong>write a brief note in the <a href="http://bit.ly/cdm2022spring-notes">shared doc</a> about what you're planning to work on today</strong>; at the end of class, reply to your own note to say what you achieved and/or to set yourself a new goal for homework.
+To help with goal-setting and reflection (and, again, so I can figure out where I can be most helpful), please <strong>write a brief note in the <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">shared doc</a> about what you're planning to work on today</strong>; at the end of class, reply to your own note to say what you achieved and/or to set yourself a new goal for homework.
 </div>
 
 **Call me in if you need help** with Audacity, Git/GitHub, or determining the license on an audio source!
