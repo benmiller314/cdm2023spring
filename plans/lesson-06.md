@@ -4,9 +4,8 @@
 **Work to have done**:
 
 * Work on your soundscapes, and push a _soundscape preview_ to GitHub: modular .aup3 file, screenshot, and text description, plus updated list of assets and a "flattened" mp3 export.
-<!-- 
-<div class="alert alert-warning">A couple of people couldn't make it today, so I'll have Zoom on.</div>
- -->
+
+<!--<div class="alert alert-warning">A couple of people couldn't make it today, so I'll have Zoom on.</div> -->
 
 **Plan for the Day**:
 
@@ -97,7 +96,7 @@ EXT: If you finish early, move on to the next section.
 
 I'll work solo to write up a clean list that reflects your consensus in the comments, while you all **work solo** (with groupmates on-hand for questions or other feedback) **on your projects and any needed tutorials.** My own tutorial screencasts are below.
 
-<div class="alert alert-success">Like last time, please set yourself some <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">studio goals in the doc</a>; at the end of class, I'll ask you to write a brief exit note on what you were able to achieve / what your next steps are.</div>
+<div class="alert alert-success">Like last time, please set yourself some <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.61hkw0doma7w">studio goals in the doc</a>; at the end of class, I'll ask you to write a brief exit note on what you were able to achieve / what your next steps are.</div>
 
 Don't forget to **save and commit as you go**!
 
@@ -106,7 +105,7 @@ And please do call me over if you have any questions your group can't help you w
 
 
 ## 5. Confirming criteria (8-10 min)
-Please head back up to the [criteria in the doc](http://bit.ly/cdm{{site.course.slugterm}}-notes). Before we head into the weekend, I'd like to confirm that we're on the same page.
+Please head back up to the [criteria in the doc](http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.a7m7rjwmokeg). Before we head into the weekend, I'd like to confirm that we're on the same page.
 
 
 
