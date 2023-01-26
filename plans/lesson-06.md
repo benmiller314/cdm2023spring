@@ -33,7 +33,7 @@ In a minute I'll ask you to assess the baseline and aspirational criteria for th
 
 ### 1a. Introduce the existing set
 
-I've posted criteria from previous semesters in our [shared google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes) as a starting point.
+I've posted criteria from previous semesters in our [shared google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.uprzm6xhjg36) as a starting point.
 
 I want to have these on screen as we talk about what it means to say something is "baseline" or "aspirational" for a particular unit.
 
@@ -65,6 +65,8 @@ Shift now in your writing to think about the narratives you've heard, especially
 ## 3. Assessing criteria (15-20 min)
 
 Given the goals of the unit, and given what you've just written down, what should we set as our _minimum_ criteria for full credit? What are some ways we might push _beyond_ that minimum – not just in terms of quantity, but in terms of quality?
+
+Let's take some notes in the [shared google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.uprzm6xhjg36)!
 
 <!-- That is, <strong>I really want you to see the aspirational ideas as a chance to stretch yourselves and your skills, not just to do more of the same.</strong> Think about what would be new and potentially exciting, but not required for everyone. -->
 
