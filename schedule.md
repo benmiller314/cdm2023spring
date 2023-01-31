@@ -82,7 +82,7 @@ For next time:
 * **Begin** sourcing the sounds you'll need
 * **Bring** headphones so you can work in class
 <!-- Ben HW: bring in sounds to practice with -->
-<a id="current"/>
+
 <h3><a href="{{site.github_url}}/plans/lesson-05">Lesson 5, Tuesday 1/24</a> – Recording, Ethics, Studio<!-- reading comprehension, general proposal advice, but mostly studio so they can turn in a preview on Thurs --></h3>
 
 
@@ -106,7 +106,7 @@ For next time:
 * **Push** a full draft, with the same four parts as the preview *plus* a SOURCES.md file crediting your sources and permissions/license to use them
 * **Bring** headphones
 
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-07">Lesson 7, Tuesday 1/31</a> – Sound Workshop</h3>
 
 For next time:
