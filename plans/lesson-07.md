@@ -38,21 +38,9 @@ To make that work, I'm going to insist that you provide this feedback in three s
 </div>
 
 
-### Trading clones
-
-You'll **download three audio narratives, as specified below,** and write your feedback for the authors _on GitHub_.
-
-NB: In years past, I asked everyone to fit comments on index cards; that should give you a sense of how much writing I'm expecting here. (ie, it should be relatively focused.) But it's a little more environmentally friendly to write digitally instead.
-
-
-Here's how and where to leave comments on GitHub: 
-  1. From the top right of the repository, under the green "Code" button, you should see a clock icon with a total number of commits.  
-  2. Clicking the clock or the number will give you the whole project history. For now, click any of the links just to the left, which will take you to the most recent commit.
-  3. Scroll to the bottom of the _diff view_ that appears. You'll see a comment box there. Add your describe/evaluate/suggest comments there: <figure role="figure"><img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described"/> <figcaption>You can leave comments on a particular commit using the GitHub website. <em>GIF made with <a href="https://www.cockos.com/licecap/">LICEcap</a></em>. </figcaption> </figure>
-
-
-
 ## 3. Peer Review Workshop (3-5 min setup, plus 10-12 min for each of 3 partners)
+
+You're going to **download three audio narratives, as specified below,** and write your feedback for the authors _on GitHub_.
 
 ### Detailed instructions for workshop
 
@@ -69,7 +57,21 @@ NB: I think it might be best to **download and listen to one project at a time**
   * **evaluate** the project relative to the shared set of criteria, and
   * **suggest** changes that you think would take it to baseline and/or above.
 
-5. Finally, make sure you **post** all these comments – in language you'd be comfortable sharing publicly – on the latest commit on the project's GitHub website.
+5. Finally, make sure you **post** all these comments – in language you'd be comfortable sharing publicly – on the latest commit on the project's GitHub website. \
+ \
+NB: In years past, I asked everyone to fit comments on index cards; that should give you a sense of how much writing I'm expecting here. (ie, it should be relatively focused.) But it's a little more environmentally friendly to write digitally instead. \
+ \
+Here's how and where to leave comments on GitHub: 
+  <ol class="alpha">
+    <li>From the top right of the repository, under the green "Code" button, you should see a clock icon with a total number of commits.</li>
+    <li>Clicking the clock or the number will give you the whole project history. For now, click any of the links just to the left, which will take you to the most recent commit.</li>
+    <li>Scroll to the bottom of the _diff view_ that appears. You'll see a comment box there. Add your describe/evaluate/suggest comments there: <figure role="figure">
+        <img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described"/> 
+        <figcaption>You can leave comments on a particular commit using the GitHub website. <em>GIF made with <a href="https://www.cockos.com/licecap/">LICEcap</a></em>. 
+        </figcaption>
+    </figure>
+    </li
+    </ol>
 
 6. Repeat the steps above for your next two partners' repos. On subsequent loops, note that **after** viewing/listening to the project first, you may also want to read and/or refer to the previous comments.
 
