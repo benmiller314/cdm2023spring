@@ -106,7 +106,6 @@ For next time:
 * **Push** a full draft, with the same four parts as the preview *plus* a SOURCES.md file crediting your sources and permissions/license to use them
 * **Bring** headphones
 
-<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-07">Lesson 7, Tuesday 1/31</a> – Sound Workshop</h3>
 
 For next time:
@@ -115,6 +114,7 @@ For next time:
 * Optionally, **write** a blog post of possible integrative projects for the end of term. <!--What games or branching narratives do the soundscapes put you in mind of? Or what do you know you won't have time for now, but maybe could build toward by the end of the term? --> What more might you want to explore?
 * **Bring** headphones so you can work in class
 
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-08">Lesson 8, Thursday 2/2</a> – Sound Studio</h3>
 
 For next time:
