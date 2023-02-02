@@ -106,7 +106,7 @@ Many of you are doing smart work to differentiate foreground sounds from backgro
 ## Okay, now go to!
 
 ### Set a goal
-What do you want to work on today? Add it to [bit.ly/cdm{{site.course.slugterm}}-notes](bit.ly/cdm{{site.course.slugterm}}-notes).
+What do you want to work on today? Add it to [bit.ly/cdm{{site.course.slugterm}}-notes](https://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.per3r4u03q50).
 <div class="alert alert-success">
 Don't forget to save and commit as you go!
 </div>
