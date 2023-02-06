@@ -123,17 +123,23 @@ Not everything is just available for any use – even if you can find it on a p
 I'll demo, using Beverly & Pack. "Fly Me to the Moon, by Way of a Hot Air Balloon."" 7 Sept. 2009. Flickr, https://www.flickr.com/photos/walkadog/3897126692/.
 -->
 
-As an alternative, let me tell you what I'm asking you to do by next class, and you can work on the reading now, instead:
+As an alternative, let me tell you what I'm asking you to do by next class, and you can work on the reading now, instead, because I admit it could be kind of long for a mid-week assignment:
 
 
 # Homework for next time:
 
 * If you haven't already, **download and install** [GIMP](https://www.gimp.org/downloads/), the GNU Image Manipulation Program
-* **Read** the following short lessons on graphic design, by independent designer Julie Thompson:
+* **Read** the following articles from a series on design principles, from Smashing Magazine:
+    - [Visual Perception And The Principles Of Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/)
+    - [Connecting and Separating Elements through Contrast and Similarity](https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/)
+    - [Space and the Figure-Ground Relationship](https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/)
+<!-- 2023 update: weird security settings on these shorter articles. check back next year, though, b/c I think they're a little more accessible: 
+short lessons on graphic design, by independent designer Julie Thompson:
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive and negative space</a>;
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance and hierarchy</a>;
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-rhythm-and-movement">rhythm and movement</a>.
-   - EXT: For an optional deeper dive into design principles, check out [this series on Gestalt design principles from Smashing Magazine](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy). (NB: That link is to the fifth in the series, because it contains links back to the prior four, right at the top.) Many of the examples are drawn from websites, so we may come back to this in the next unit.
+   - EXT: For an optional deeper dive into design principles, check out [this series on Gestalt design principles from Smashing Magazine](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy). (NB: That link is to the fifth in the series, because it contains links back to the prior four, right at the top.) Many of the examples are drawn from websites, so we may come back to this in the next unit. 
+-->
 * **Find and either [screenshot](https://www.take-a-screenshot.org/) or photograph** at least one example of a visual or graphic design out in "the wild" that makes some sort of claim, or argument.
   - By "design," I mean that some person made an active choice in its arrangement. A heap of clothes on the floor may have a lot of artistic potential to a photographer, but it's not yet *designed*.
   - By "in the wild," I mean that I expect you to come across some in the course of your routine travels around the web – or around your surroundings, if you're in a place where you get out into your surroundings. That said, if you need to search more actively, so be it; for one thing, you may need to pay more attention to ads that you've trained yourself to ignore.
