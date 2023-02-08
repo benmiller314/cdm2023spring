@@ -132,7 +132,7 @@ As an alternative, let me tell you what I'm asking you to do by next class, and 
 * **Read** the following articles from a series on design principles, from Smashing Magazine:
     - [Visual Perception And The Principles Of Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/)
     - [Connecting and Separating Elements through Contrast and Similarity](https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/)
-    - [Space and the Figure-Ground Relationship](https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/)
+    - [Space and the Figure-Ground Relationship](https://www.smashingmagazine.com/2014/05/design-principles-space-figure-ground-relationship/)
 
 * **Find and either [screenshot](https://www.take-a-screenshot.org/) or photograph** at least one example of a visual or graphic design out in "the wild" that makes some sort of claim, or argument.
   - By "design," I mean that some person made an active choice in its arrangement. A heap of clothes on the floor may have a lot of artistic potential to a photographer, but it's not yet *designed*.
