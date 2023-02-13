@@ -4,7 +4,7 @@
 **Work to have achieved**:
 
 * Read about graphic design principles (<a href="https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt">principles of gestalt</a>, <a href="https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/">contrast and similarity</a>, <a href="https://www.smashingmagazine.com/2014/05/design-principles-space-figure-ground-relationship/">figure & ground</a>)
-* Find and [post]({{site.github_url}}/issues) a graphic or visual design that makes a claim or argument
+* Find and [post]({{site.repo_url}}/issues) a graphic or visual design that makes a claim or argument
 * If you can, analyze the designed artifact through the lenses of graphic design principles. (If not, that's for today!)
 
 
@@ -148,7 +148,7 @@ We'll work here for a while.
     - What idea or argument will you try to represent? What _claim_ will you try to make – or, at least, what is the triggering idea (starting point) of that claim?
     - Include or link to a **prospective assets list**, i.e. a table of the images you think you'll need and where you might be able to source them. You can choose to include that assets list in the proposal or place it as a file in your repository, to more easily track changes.
     - **Link to your project repository,** so it's easier to find when we get to group work.
-* **Post** your proposal to the appropriate forum on the [Issue Queue]({{site.github_url}}/issues).
+* **Post** your proposal to the appropriate forum on the [Issue Queue]({{site.repo_url}}/issues).
 * **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and **read/watch** more deeply in anything that seems like it would help you, whether [advice]({{site.github_url}}/resources#visual) or [material to work with]({{site.github_url}}/resources#visuals).
   * In particular, I highly recommend the LinkedIn Learning series of videos on "GIMP Essential Training." I've been using GIMP for years, and I confess I learned some things even from the basic tool options videos. The whole series is about 5 hours of material, but I'm not asking you to watch the whole thing in one go! Instead, [I've marked some highlights and starting points]({{site.github_url}}/resources#lil-gimp): please at least view at those, which total around 45 minutes runtime.
   - Note that there are exercise files, should you want to follow along and make sure it works in practice.
