@@ -114,7 +114,7 @@ For next time:
 * Optionally, **write** a blog post of possible integrative projects for the end of term. <!--What games or branching narratives do the soundscapes put you in mind of? Or what do you know you won't have time for now, but maybe could build toward by the end of the term? --> What more might you want to explore?
 * **Bring** headphones so you can work in class
 
-<a id="current"/>
+
 <h3><a href="{{site.github_url}}/plans/lesson-08">Lesson 8, Thursday 2/2</a> – Sound Studio</h3>
 
 For next time:
@@ -144,7 +144,7 @@ For next time:
   - If you've been having trouble with LinkedIn Learning, try [this LIL link, which routes through MyPitt](https://my.pitt.edu/launch-task/all/cssd-linkedinlearning?terms=linkedin&roles=). I also am happy to troubleshoot with you during office hours!
 * **Write** a visual argument proposal, including a prospective asset list and a rough sketch; post to <a href="{{site.github.issues_url}}">the issue queue</a>
 * **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-11">Lesson 11, Tuesday 2/14</a> – Generative Studio</h3>
 <!-- Open class with guidance re: proposals -->
 For next time:
