@@ -88,7 +88,7 @@ Some preview of the project will be due before next class, just to make sure you
 Therefore, the rest of today's class is all about working on your individual projects! Find source images or text, level up on layering, watch relevant tutorials on effects or on layout, and see what happens when you apply them to your own digital canvas.
 
 <div class="alert alert-success">
-<p>As usual, please <strong>set a daily goal</strong> in the <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">shared notes doc</a>, for the usual reasons: to build accountability, to seed your later reflections, and to help me find teachable moments / chances to be helpful to you.</p>
+<p>As usual, please <strong>set a daily goal</strong> in the <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.860syjskd7ei">shared notes doc</a>, for the usual reasons: to build accountability, to seed your later reflections, and to help me find teachable moments / chances to be helpful to you.</p>
 </div>
 
 You can keep your own time, or coordinate to chat with partners at regular intervals (say, 15 or 25 minutes). In the latter case, each time the interval runs out, ask each other: What do you feel good about? What challenges came up?
@@ -119,13 +119,13 @@ Don't forget to save as you go:
 Just as a way for me to check in, I'd like to hear more about what happened today: did you find images? Level up on a particular GIMP/Photoshop skill? Which ones? Decide something about your project (what was it)? Raise a question in a new way that you'd like some help with?
 
 <div class="alert alert-success">
-Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">the doc</a>. If everyone finishes early, we can hear from a few volunteers out loud.
+Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.860syjskd7ei">the doc</a>. If everyone finishes early, we can hear from a few volunteers out loud.
 </div>
 
 
 ## Homework for next time
-* **Read** about fonts; you can do this now or over the weekend, depending on when you have time. I've added Midori Nediger's blog post, ["How to Choose Fonts For Your Designs (With Examples)"]({{site.canvas_url}}/assignments/1092062) to Perusall, on Canvas, so you can annotate it with anything surprising or important, ask questions, reply to each other, etc.
-   - Optionally, **play** a font-matching game at [www.typeconnection.com](http://www.typeconnection.com/) to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson called hierarchy by "style."
+* **Read** about fonts. (NB: you can do this now or over the weekend, depending on when you have time.) I've added Midori Nediger's blog post, ["How to Choose Fonts For Your Designs (With Examples)"]({{site.canvas_url}}/assignments/1092062) to Perusall, on Canvas, so you can annotate it with anything surprising or important, ask questions, reply to each other, etc.
+   - Optionally, **play** a font-matching game at [www.typeconnection.com](http://www.typeconnection.com/) to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts <!-- for what Thompson called hierarchy by "style." -->
 
 
 * For Thursday, compose a **Visual Argument Preview**: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond).
@@ -139,4 +139,4 @@ Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm{{site
    <li>An <strong>exported "flat" .png or .jpg file</strong>. As with Audacity, GIMP's default save mode is a complex / modular "project file," of type .xcf; should the project fail to load, it would be great to have a simple image file as a backup. We won't be able to see how you achieved your layout, but we will be able to see the image. <ul><li><em>Sweet bonus:</em> if you keep the same filename for every export, you'll also be able to <a href="https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/rendering-and-diffing-images">use GitHub history to compare one .png to another</a>, side by side, or even slide to reveal the change. Pretty cool, no? (That said, I won't be mad if you want to give each exported draft its own name. Just: please don't do that for the .xcf, okay?)</li></ul></li>
    </ul>
 
-Where possible, bear in mind the [guiding thoughts from above](#2-guiding-thoughts-for-studio--5-15-min)
+Where possible, bear in mind the [guiding thoughts from above](#2-guiding-thoughts-for-studio-5-15-min)
