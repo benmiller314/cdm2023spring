@@ -144,7 +144,7 @@ For next time:
   - If you've been having trouble with LinkedIn Learning, try [this LIL link, which routes through MyPitt](https://my.pitt.edu/launch-task/all/cssd-linkedinlearning?terms=linkedin&roles=). I also am happy to troubleshoot with you during office hours!
 * **Write** a visual argument proposal, including a prospective asset list and a rough sketch; post to <a href="{{site.github.issues_url}}">the issue queue</a>
 * **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
-<a id="current"/>
+
 <h3><a href="{{site.github_url}}/plans/lesson-11">Lesson 11, Tuesday 2/14</a> – Generative Studio</h3>
 <!-- Open class with guidance re: proposals -->
 For next time:
@@ -152,7 +152,7 @@ For next time:
 * **Compose and push** a visual rhetoric preview; workshop-ready draft due in one week.
 * (Weekend reading, should you want it / have more time now: **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game<!-- http://www.typeconnection.com/ -->)
 
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-12">Lesson 12, Thursday 2/16</a> – Visual Unit Criteria and Stretch Goals</h3> <!-- NB: In 2023, this is CCCC week for some reason. -->
 
 For next time:
