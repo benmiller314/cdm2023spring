@@ -134,6 +134,9 @@ In this section:
 <dd><p>Fonts that are free for personal <em>and</em> commercial uses, making them especially handy for advertising campaigns and the like. The site also includes some useful educational resources for learning more about font history and font selection.</p>
 <p>For web design applications, see also their <a href="https://www.fontsquirrel.com/tools/webfont-generator">WebFont Generator, </a>, because even once you've find a good font, before you can use it on the web, it has to be formatted for browsers to render properly. Some fonts on your favorite font sites will already have webfont versions. If they don't, you can convert them to web-ready fonts using this tool. Just make sure you have permission to do so, okay?</p></dd>
 
+<dt><a href="https://www.whatfontis.com/similar-alternative-fonts.html">Similar font finder</a></dt>
+<dd>A lot of fonts you'll see in commercial products are expensive to license, in part because they're crafted to be unique or brand-identifying. But often in a project you just want the <em>flavor</em> of a particular font, and the exact match isn't as essential. This tool, from WhatFontIs.com, indexes hundreds of thousands of free and commercial fonts and may help you locate something with an open license that will serve your purposes just fine. (And if you're not sure what font you're looking at, their main site might help you figure it out!)</dd>
+
 <dt><a href="https://thenounproject.com/">The Noun Project</a></dt>
 <dd>A collection of liberally licensed icon sets aiming to create "icons for everything," though as the name suggests, they specialize in <em>things</em>, rather than actions. If you realize you don't want all the detail of a photo when a simple line drawing would get the idea across, try searching their million-plus collection.</dd>
 
