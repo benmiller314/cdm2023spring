@@ -152,7 +152,7 @@ For next time:
 * **Compose and push** a visual rhetoric preview; workshop-ready draft due in one week.
 * (Weekend reading, should you want it / have more time now: **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game<!-- http://www.typeconnection.com/ -->)
 
-<a id="current"/>
+
 <h3><a href="{{site.github_url}}/plans/lesson-12">Lesson 12, Thursday 2/16</a> – Visual Unit Criteria and Stretch Goals</h3> <!-- NB: In 2023, this is CCCC week for some reason. -->
 
 For next time:
@@ -160,6 +160,7 @@ For next time:
 * **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
 * **Compose and push** a workshop-ready visual rhetoric draft
 
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-13">Lesson 13, Tuesday 2/21</a> – Visual Unit Workshop</h3>
 
 For next time:
