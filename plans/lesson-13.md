@@ -155,7 +155,7 @@ Use what class time remains to make a revision plan – or even begin the revisi
 # Homework for Next Time
 
 * If you weren't able to finish responding during class, I hope you can do so asynchronously. I'm not expecting or demanding extensive notes (remember, I used to do this with index cards), so be kind to yourself as well as to your workshop partners.
-  - *If you haven't received three comments by the Thursday afternoon, please email me, and I'll be your extra respondent.*
+  - *If you haven't received three comments by tomorrow afternoon, please email me, and I'll be your extra respondent.*
 * Next class will be a graphic designers' studio: bring whatever you need to work towards finalizing your visual argument / rhetorical collage.
   - The final draft is targeted for the end of the day on the following Sunday, and due with a reflection by class-time the following on Tuesday; see the [rhetorical collage prompt](https://github.com/benmiller314/visual-argument-{{site.course.slugterm}}#deadlines-and-products) for further details.
 * Even as we zoom in toward the unit finale (again!), I want to keep one eye open toward the bigger picture. **Write a short blog post** thinking about possible group projects you'd like to try for the end of term.
