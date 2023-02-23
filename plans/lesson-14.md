@@ -8,7 +8,7 @@
 **Plan for the day**:
 1. Guiding thoughts for Studio (5-15 min)
 2. Set intentions
-3. Work in breakout rooms
+3. Studio time!
 4. Exit note
 
 
