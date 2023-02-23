@@ -160,7 +160,7 @@ For next time:
 * **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
 * **Compose and push** a workshop-ready visual rhetoric draft
 
-<a id="current"/>
+
 <h3><a href="{{site.github_url}}/plans/lesson-13">Lesson 13, Tuesday 2/21</a> – Visual Unit Workshop</h3>
 
 For next time:
@@ -168,6 +168,7 @@ For next time:
 * *Optionally*, **write** a post on the <a href="{{site.github.issues_url}}">issue queue</a> with more ideas toward the final / integrative project unit. What further possibilities might you want to explore?
 * **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
 
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-14">Lesson 14, Thursday 2/23</a> – Revision Studio</h3>
 
 For next time:
