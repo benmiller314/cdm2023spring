@@ -133,7 +133,7 @@ Sometimes GIMP seems to promise the world, but when you apply the effect, it's l
 ## Okay, now go to!
 
 
-<p>As usual for studio time, please <strong>set a daily goal</strong> in the <a href="http://bit.ly/cdm2022spring-notes">shared notes doc</a>, both for accountability and so I can look for ways to help.</p>
+<p>As usual for studio time, please <strong>set a daily goal</strong> in the <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.ema3504c3kf3">shared notes doc</a>, both for accountability and so I can look for ways to help.</p>
 <!--
 Then **consult the clock and your partners**: leaving 5 minutes to return to the main room at the end of the class, do you want to set a couple 25-minute cycles and one 5-minute check-in? Three 15-minute cycles and two check-ins? One long work session with check-ins only for questions?
 
@@ -176,7 +176,7 @@ Don't forget to save periodically as you go:
 
 Just as a way for me to check in, I'd like to hear more about what happened today: did you find images? Level up on a particular GIMP skill? Which ones? Decide something about your project (what was it)? Raise a question in a new way that you'd like some help with?
 
-Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2022spring-notes">the doc</a>. If everyone finishes early, we can hear from a few volunteers out loud.
+Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.ema3504c3kf3">shared notes doc</a>. If everyone finishes early, we can hear from a few volunteers out loud.
 
 
 
