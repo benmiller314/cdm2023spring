@@ -117,7 +117,7 @@ Not sure what that should look like? Above all, keep it simple: basic shapes, mi
 
 <figure>
   <img alt="design sketches in sharpie on the repeated outline of a phone, showing headings, menus, and cross-outs" src="../assets/img/wireframes-by-resultsjunkie-via-flickr-ccbysa.jpeg" />
-  <figcaption><a href="https://www.flickr.com/photos/28678196@N04/9491795946">Wireframes</a> by <a href="https://www.flickr.com/photos/28678196@N04/">@resultsjunkie</a> via flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/" title="Attribution-ShareAlike License">CC-BY-SA-2.0</a>
+  <figcaption><a href="https://www.flickr.com/photos/28678196@N04/9491795946">Wireframes</a> by <a href="https://www.flickr.com/photos/28678196@N04/">@resultsjunkie</a> via flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/" title="Attribution-ShareAlike License">CC-BY-SA-2.0</a></figcaption>
 </figure>
 
 * EXT: Will "inner" pages look the same as the landing page? Sketch out the possible differences. Consider the possibility that someone jumps directly to an inner page (e.g. from Google). What would they need to feel oriented? To get to other pages on the site? (What would you suggest they view next? How might you lead them there?)
