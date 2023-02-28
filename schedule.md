@@ -168,7 +168,6 @@ For next time:
 * *Optionally*, **write** a post on the <a href="{{site.github.issues_url}}">issue queue</a> with more ideas toward the final / integrative project unit. What further possibilities might you want to explore?
 * **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
 
-<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-14">Lesson 14, Thursday 2/23</a> – Revision Studio</h3>
 
 For next time:
@@ -177,7 +176,7 @@ For next time:
 * By classtime on Tuesday, post a prose reflection to <a href="{{site.github.issues_url}}">the issue queue</a> that incorporates images from your feedback and screenshots of your GIMP project.
 <!-- BEN HW: Choose sample student website projects to assign. Focus on work by people without prior experience – including Lynn Priestley's tea shop -->
 
-
+<a id="current"/>
 <h2 id="unit-4">Unit IV: Webslinging (HTML + CSS markup)</h2>
 
 *In this unit, you will build a multi-page website from scratch, beginning with html and css files.*
