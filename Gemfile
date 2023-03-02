@@ -9,3 +9,5 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'bootstrap', '>= 4.3.1'
 
 # gem "rails"
+
+gem "webrick", "~> 1.8"

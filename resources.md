@@ -292,7 +292,7 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 
 <dt><a href="https://gridbyexample.com/learn/">Grid By Example</a></dt>
 <dd>
-<p>Want more grab-and-go skeletons of grid layouts? This resource, from Rachel Andrew, includes some nice, short videos and quite a lot of CodePens you can mess around with and then copy into Atom, so you don't have to start from an empty editor.
+<p>Want more grab-and-go skeletons of grid layouts? This resource, from Rachel Andrew, includes some nice, short videos and quite a lot of CodePens you can mess around with and then copy into Visual Studio Code, so you don't have to start from an empty editor.
 </p>
 </dd>
 
@@ -345,12 +345,40 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <dd>This is a browser plugin, available for Chrome, Firefox, and Opera, that allows you to test your web pages by manipulating them in various ways – by temporarily turning off JavaScript, for example, or replacing all images with their alt text. (I've found the latter tool particularly useful.) It also includes html and css validators, to help you find typos that are throwing off your code.</dd>
 
 
-<dt><a href="https://atom.io">Atom text editor</a></dt>
+<dt><a href="">Visual Studio Code</a></dt>
+<dd><p>As mentioned in class, this is a widely popular syntax-aware text editor, suitable for all your web development needs. It's particularly valuable when you power it up with <em>extensions</em> written by the open source community to add new functionality. In general, if there's anything you think VS Code <em>should</em> be able to do, chances are someone's already made it happen. To search for, install, or otherwise manage extensions from within VS Code, go to View > Extensions or click on the sidebar icon that looks like building blocks.</p>
+
+<p>Some extensions I expect you'll find useful:</p>
+
+  <ul>
+        <li>
+          <p><a href="https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag">Close HTML/XML tag</a>, by Compulim: adds a keyboard shortcut to automatically detect the last-opened html tag, and close it. Useful for proofreading!</p>
+        </li>
+        <li>
+          <p><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a>, by Jun Han. If you change an <code class="language-plaintext highlighter-rouge">h2</code> to an <code class="language-plaintext highlighter-rouge">h3</code>, this will automatically update the corresponding closing or opening tag so you don’t end up with a mismatch.</p>
+        </li>
+        <li>
+          <p><a href="https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek">CSS Peek</a>, by Pranay Prakash. Detects definitions for CSS <code class="language-plaintext highlighter-rouge">id</code>s and <code class="language-plaintext highlighter-rouge">class</code>es from inside your HTML files, by looking in linked stylesheets.</p>
+        </li>
+        <li>
+          <p><a href="https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion">Intellisense for CSS Class Names in HTML</a>, by Zignd. Offers autocomplete for CSS <code class="language-plaintext highlighter-rouge">class</code> names from linked stylesheets while you’re working in HTML.</p>
+        </li>
+        <li>
+          <p><a href="https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode">HTML Preview</a>, by George Oliveira (note that the more-frequently downloaded one, by Thomas Haakon Townsend, is no longer being maintained). Lets you see a preview of your HTML file without having to head to the browser (though you may still want to, for inspector reasons!)</p>
+        </li>
+        <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Auto-Close Tag</a>, by Jun Han. Every time you open a new HTML tag, the corresponding closing tag will be generated automatically. A lot of people love this, but I find it annoying; your mileage may vary.</li>
+      </ul>
+
+  <p>Read the README inside any installed package for tips on how to use it. This will open just like any other file, so you can move it, split it, etc.</p>
+  </dd>
+
+
+
+<!-- <dt><a href="https://atom.io">Atom text editor</a></dt>
 <dd><p>There are lots of great coding-friendly text editors out there, and even many excellent free ones. Essential features to look for are <em><a href="https://en.wikipedia.org/wiki/Syntax_highlighting#:~:text=Syntax%20highlighting%20is%20a%20feature,to%20the%20category%20of%20terms">syntax highlighting</a></em> and the ability to <em>view several files side-by-side</em>.</p>
 <p>Lately I've been pretty into Atom: it's cross-platform; it uses your existing file system for project management (rather than inventing its own file system); it has flexible panes for viewing; it's open source and extendable – and thus has lots of packages out in the world, including for rendered HTML or Markdown previews. Plus, it can work directly with git and GitHub, without even having to leave the editor. </p>
 <p>I'm still in the market for good tutorials on working with Atom, but <a href="https://www.youtube.com/playlist?list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_">this one from Level Up</a> looks pretty decent; essential episodes include <a href="https://www.youtube.com/watch?v=ZnzLPIhMJnw&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_&index=4">#3 The Atom Interface with Tips and Tricks</a> and <a href="https://www.youtube.com/watch?v=IgSW1umKrVs&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_&index=7">#6 Project Management In Atom</a>.</p>
-
-</dd>
+</dd> -->
 
 <dt>How to hide your website from search engines</dt>
 <dd><p>You can make your website accessible to the world by using GitHub Pages, which is great for sharing personal or professional sites with friends, family, and potential employers. But if you've made a website for a business that doesn't actually exist, you might not want the link to spread too widely, lest someone try to buy something you can't yet sell them.</p>

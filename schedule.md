@@ -176,7 +176,6 @@ For next time:
 * By classtime on Tuesday, post a prose reflection to <a href="{{site.github.issues_url}}">the issue queue</a> that incorporates images from your feedback and screenshots of your GIMP project.
 <!-- BEN HW: Choose sample student website projects to assign. Focus on work by people without prior experience – including Lynn Priestley's tea shop -->
 
-<a id="current"/>
 <h2 id="unit-4">Unit IV: Webslinging (HTML + CSS markup)</h2>
 
 *In this unit, you will build a multi-page website from scratch, beginning with html and css files.*
@@ -189,6 +188,7 @@ For next time:
 * Consider the collections of work you might want to gather
 * **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, a prospective asset list, and a link to your repo. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.
 
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-16">Lesson 16, Thursday 3/2</a> – Intro to Markup and Web Design</h3>
 <!--
 BEN HW:
