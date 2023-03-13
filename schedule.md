@@ -188,7 +188,6 @@ For next time:
 * Consider the collections of work you might want to gather
 * **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, a prospective asset list, and a link to your repo. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.
 
-<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-16">Lesson 16, Thursday 3/2</a> – Intro to Markup and Web Design</h3>
 <!--
 BEN HW:
@@ -213,7 +212,7 @@ For next time:
 Spring break! No classes on 3/7 or 3/9.
 </div>
 
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-17">Lesson 17, Tuesday 3/14</a> – Studio / Stylesheeting </h3>
 
 <!--

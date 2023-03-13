@@ -26,11 +26,11 @@ article#content {
 }
 
 a {
-	color: #0065d1;					# tones down luminosity against light bg
+	color: #0065d1;			   /* tones down luminosity against light bg */
 }
 
 .navbar-dark .navbar-nav .nav-link {
-	rgba(255, 255, 255, 0.7)		# up from alpha 0.5 in Bootstrap
+	color: rgba(255, 255, 255, 0.7);		/* up from alpha 0.5 in Bootstrap */
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {

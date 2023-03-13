@@ -16,3 +16,5 @@ On this page, you'll find links to important course documents and readings you c
 
 ## Other handouts
 (will be posted here, as needed)
+
+* [Lesson 17 answer key](uploads/lesson-17--web--answer-key.docx)
