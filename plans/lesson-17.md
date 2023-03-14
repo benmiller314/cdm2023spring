@@ -24,9 +24,9 @@ There's also a workshop this Friday morning, 11:00-1:00, on _Alt-Text as Poetry_
 
 
 
-## 1. Key Concepts and Practical Takeaways (20-30 min) <!-- so for a 1:00 start, aim to be done by 3:25 -->
+## 1. Key Concepts and Practical Takeaways (20-30 min) <!-- so for a 1:00 start, aim to be done by 3:25 In 2023, we start the solo round at around 1:10. All groups talking by 1:23. -->
 <div class="alert alert-success">
-Start by answering each of the questions below <strong>on your own</strong> (skipping the EXTs for now). Write down your answers in your own space.
+Start by answering each of the questions below <strong>on your own</strong> (skipping the EXTs for now). Write down your answers in your own space. <!-- FOR NEXT TIME: Have a downloadable quiz sheet so people don't feel like they have to waste time copying stuff out -->
 </div>
 <p>(Note that some of the True/False questions are actually a little subtler than that framing suggests: e.g. *mostly* true, except when ____.)</p>
 
@@ -137,3 +137,5 @@ EXT: If you've already done the above, and you're good on what a CSS class is, a
   - Save and commit as you go!
 
 <!-- * **View** screencast on using <nav><ul><li></a> and CSS to remove bullets ... and to resize the <a> directly using padding. Point out that this is a direct application of the Box Model. -->
+
+Pi Day bonus! [https://www.youtube.com/watch?v=NmxPeBeX_38](LullaPi: A Piano Piece Inspired by the digits of Pi)
