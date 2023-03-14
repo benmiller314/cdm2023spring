@@ -26,7 +26,7 @@ There's also a workshop this Friday morning, 11:00-1:00, on _Alt-Text as Poetry_
 
 ## 1. Key Concepts and Practical Takeaways (20-30 min) <!-- so for a 1:00 start, aim to be done by 3:25 -->
 <div class="alert alert-success">
-<p>Start by answering each of the questions below <strong>on your own</strong> (skipping the EXTs for now). Write down your answers in your own space.</p>
+Start by answering each of the questions below <strong>on your own</strong> (skipping the EXTs for now). Write down your answers in your own space.
 </div>
 <p>(Note that some of the True/False questions are actually a little subtler than that framing suggests: e.g. *mostly* true, except when ____.)</p>
 
@@ -87,7 +87,7 @@ EXT: Given the three locations in question 4, when would you want to use each? W
 
 
 <div class="alert alert-info">
-<p>If your group finishes early, (a) let me know you're done, (b) <a href="uploads">download my answer key</a> and confirm we're on the same page. If not, let me know that, too!</p>
+<p>If your group finishes early, (a) let me know you're done, (b) <a href="../uploads">download my answer key</a> and confirm we're on the same page. If not, let me know that, too!</p>
 
 <p>Then (c) try the EXT activities below while you wait for the other groups to catch up.</p>
 </div>
@@ -113,7 +113,7 @@ Let me know if you have any challenges or questions after reading my answer key!
 
 ## 3. Studio / Practice (45-60 min) <!-- for a 1:00 start, you have to get here by 1:25, ending by 1:35 -->
 
-<div class="alert alert-success">See below for options, then please go to <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.hiw73w6fl2zt">bit.ly/cdm{{site.course.slugterm}}-notes</a> and let me know what you're working on; this helps me figure out where I can be most helpful.</div>
+<div class="alert alert-success">See below for options, then please go to <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.hiw73w6fl2zt#heading=h.jf786cdz1a2q">bit.ly/cdm{{site.course.slugterm}}-notes</a> and let me know what you're working on; this helps me figure out where I can be most helpful.</div>
 
 1. **If your tutorial pages aren't looking like the examples, tell me now, so I can help you get there!** You'll get a lot more out of the later tutorials if you've got these first ones solidly under your belt.
 
@@ -131,7 +131,7 @@ EXT: If you've already done the above, and you're good on what a CSS class is, a
 ## Homework for Next Time
 
 * **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), getting through at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
-  - Remember that I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github_url}}/schedule#unit-4) to see which parts I expect you to read and do, and what's beyond baseline. You can probably skip Floats, for example... and I'll ask you to look at some Grid tutorials that aren't part of the main series.
+  - Remember that I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github_url}}/schedule#current) to see which parts I expect you to read and do, and what's beyond baseline. You can probably skip Floats, for example... and I'll ask you to look at some Grid tutorials that aren't part of the main series.
 * Please do, though **read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/) *OR* if you prefer game-based learning to straight-up reading, try loading and clearing plates at the delightful [CSS Diner](https://flukeout.github.io/). (There's still reading, in the sidebar, which tells you how to win the round.)
 * As you're able to get the tutorials working, you can start adapting the files there to include your own content; save those more personalized files in the _docs_ folder.
   - Save and commit as you go!
