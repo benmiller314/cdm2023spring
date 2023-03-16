@@ -157,8 +157,6 @@ Here are some other things to consider as you move forward:
 <p>It'll also set you up well for the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPzuLPbCkRQ7k4--R8Ti7zkM1zzLP-jlZ7MwQIShlyeiU6Kw/viewform">accessible HTML workshop</a> tomorrow!</p>
 
 </div>
-
-
 </details>
 
 <details><summary>Your homepage should probably be called something like index.html</summary>
