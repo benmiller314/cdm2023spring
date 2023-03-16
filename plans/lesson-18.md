@@ -250,7 +250,7 @@ Save about five minutes at the end to write me a brief exit note about what you'
 <div class="alert alert-success">
 Before you leave, just as a way for me to check in, I'd like to hear more about what happened today: Did you decide on your navigation? Block out the html? Make some progress on a stylesheet?
 
-<strong>Reply to your note in the <a href="http://bit.ly/cdm2022spring-notes">google doc</a>.</strong>
+<strong>Reply to your note in the <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">google doc</a>.</strong>
 </div>
 
 # Homework for next time
