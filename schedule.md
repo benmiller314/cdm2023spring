@@ -212,7 +212,7 @@ For next time:
 Spring break! No classes on 3/7 or 3/9.
 </div>
 
-<a id="current"/>
+
 <h3><a href="{{site.github_url}}/plans/lesson-17">Lesson 17, Tuesday 3/14</a> – Studio / Stylesheeting </h3>
 
 <!--
@@ -227,7 +227,7 @@ NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doe
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/) *OR* if you prefer game-based learning to straight-up reading, try loading and clearing plates at the [CSS Diner](https://flukeout.github.io/). (There's still reading, in the sidebar, which tells you how to win the round.)
 <!-- * **View** screencast on using <nav><ul><li></a> and CSS to remove bullets ... and to resize the <a> directly using padding. Point out that this is a direct application of the Box Model. -->
 
-
+<a id="current"/>
 <div class="alert alert-info">
 <p>NB: This Friday, March 17th, is the Spring Term deadline for students to submit <a href="https://www.asundergrad.pitt.edu/sites/default/files/Monitored%20Withdrawal%20Request.pdf">Monitored Withdrawal</a> forms to Dean’s Office. If you find yourself missing a lot of work in one of your classes, such that a full course do-over might help you, talk to your advisor and/or professor about this option.</p>
 </div>
@@ -242,7 +242,7 @@ For next time:
 * **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
   - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors.
 * Separately, also **read** about [Grid Layout](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725) (and optionally the followup post on [responsive grid](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)).
-  - EXT: Want more CSS Grid templates and examples, including CodePens to play with? Try [Grid By Example](https://gridbyexample.com/learn/), which also has video tutorials.
+  - EXT: Want more CSS Grid templates and examples, including CodePens to play with? Try [Grid By Example](https://gridbyexample.com/patterns/), which also has video tutorials.
 * **Compose and push** a first website preview: a beginning, focused on content and navigation.
 
 
