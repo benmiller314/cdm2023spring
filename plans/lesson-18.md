@@ -151,7 +151,7 @@ In a moment, I'm going to invite you to set goals for studio time: if you've kep
 Here are some other things to consider as you move forward:
 
 <details><summary>The semantic html tutorial would be useful now, as well as later!</summary>
-<p>I hadn't initially scheduled it at this point in the tutorial, in large part because the tutorial itself doesn't introduce semantic elements like `<section>` and `<nav>` until later. But you may well find them easier to use than `<div>`, `<div>`, `<div>` all the time!</p>
+<p>I hadn't initially scheduled it at this point in the tutorial, in large part because the tutorial itself doesn't introduce semantic elements like <code>&lt;section&gt;</code> and <code>&lt;nav&gt;</code> until later. But you may well find them easier to use than <code>&lt;div&gt;</code>, <code>&lt;div&gt;</code>, <code>&lt;div&gt;</code> all the time!</p>
 <p>It'll also set you up well for the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPzuLPbCkRQ7k4--R8Ti7zkM1zzLP-jlZ7MwQIShlyeiU6Kw/viewform">accessible HTML workshop</a> tomorrow!</p>
 </details>
 
