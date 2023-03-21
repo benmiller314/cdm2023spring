@@ -155,10 +155,14 @@ In this section:
 <dt><a href="https://loremipsum.io">loremipsum.io</a></dt>
 <dd><em>Lorem ipsum</em> is the shorthand name for the most commonly used placeholder text around. (There are also a lot of variants.) Essentially, you can use this text to fill in for the kind of writing that will change frequently: article or blog post text, for example. By quickly letting you fill out several paragraphs, you can start to see what your design looks like before you have fully fleshed-out content. This particular site, in addition to offering lorem ipsum generators and links to several others, gives a nice overview of the history and debates around this kind of placeholder.</dd>
 
-
 <dt><a href="https://templated.co/">templated.co</a></dt>
 <dt><a href="https://html5up.net/">html5up.net</a></dt>
 <dd>There are a lot of websites that offer collections of free website themes and templates. These are two of my favorite sources for starting up static sites with built-in semantic html5 and responsive css.</dd>
+   
+<dt><a href="https://pageclip.co/">pageclip.co</a></dt>
+<dt><a href="https://formspree.io/">formspree.co</a></dt>
+<dt><a href="https://usebasin.com/">Basin</a></dt>
+<dd>For those looking to integrate form submissions within their static site, the above plug-and-play services allow redirects to emails, Slack channels, or csv's. Free plans are limited but generally sufficient for most small-scale projects.</dd>
 
 <dt id="frameworks"><a href="http://getbootstrap.com/">Bootstrap CSS Framework</a></dt>
 <dt><a href="http://getskeleton.com/">Skeleton CSS</a></dt>
