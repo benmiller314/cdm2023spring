@@ -197,10 +197,12 @@ BEN HW:
 
 For next time:
 
+<!-- NEW AFTER 2023spring: Add semantic HTML tutorial now instead of later! -->
+
 * *Optional* If you haven't yet, spend some time getting to know your plain-text editor.
   - Can it show two or more files side by side? Can it preview how an html file will render? Does it allow plugins or extensions to enable either of those things?
   - If you're using VSCode, you may want to check out some [intro tutorials](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6). I also recommend this list of [HTML-specific features and optional settings](https://code.visualstudio.com/docs/languages/html).
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you have time for – but **at least parts 1-4** (from "Introduction" through "Hello, CSS").
+* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you have time for – but **at least parts 1-4** (from "Introduction" through "Hello, CSS"). <!-- NEW AFTER 2023spring: Then skip ahead to Semantic HTML. -->
   * Heads up to fast workers: Float layouts used to be a big deal, but aren't as widely recommended any more. *You can probably skip the Float chapter*, at least for now.
 * **Show your work** by pushing your tutorial code to your project repository.
   * Do start by copying the pages as written, before attempting to adapt to your own work: confirm that you can get them to look the same as in the tutorial.
@@ -223,11 +225,11 @@ NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doe
 
 -->
 
-* **Do** more of the [HTML and CSS tutorial](https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
+* **Do** more of the [HTML and CSS tutorial](https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet. 
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/) *OR* if you prefer game-based learning to straight-up reading, try loading and clearing plates at the [CSS Diner](https://flukeout.github.io/). (There's still reading, in the sidebar, which tells you how to win the round.)
 <!-- * **View** screencast on using <nav><ul><li></a> and CSS to remove bullets ... and to resize the <a> directly using padding. Point out that this is a direct application of the Box Model. -->
 
-<a id="current"/>
+
 <div class="alert alert-info">
 <p>NB: This Friday, March 17th, is the Spring Term deadline for students to submit <a href="https://www.asundergrad.pitt.edu/sites/default/files/Monitored%20Withdrawal%20Request.pdf">Monitored Withdrawal</a> forms to Dean’s Office. If you find yourself missing a lot of work in one of your classes, such that a full course do-over might help you, talk to your advisor and/or professor about this option.</p>
 </div>
@@ -237,19 +239,15 @@ NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doe
 <!-- Make sure everyone knows how to make a navigation menu using <nav><ul><li><a>. -->
 
 For next time:
-
-* **View** video on responsive-first layout (minimal CSS) <!-- need to find this again! I feel like I saw it on that Kevin channel... -->
-* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
+<!-- NEW AFTER 2023spring: Leave the tutorial for Flexbox. It's overly cluttered HTML, it doesn't have Grid anyway, and there are better resources out there. Which resources, exactly? I'll have to look... -->
+* **View** video on [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU&list=PL4-IK0AVhVjM6kuUoUexfmnD8vHtZkXdd&index=4) 
+* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet. 
   - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors.
 * Separately, also **read** about [Grid Layout](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725) (and optionally the followup post on [responsive grid](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)).
   - EXT: Want more CSS Grid templates and examples, including CodePens to play with? Try [Grid By Example](https://gridbyexample.com/patterns/), which also has video tutorials.
 * **Compose and push** a first website preview: a beginning, focused on content and navigation.
 
-
-<!-- <div class="alert alert-warning">
-No homework: Wednesday is a self-care day. That said, if you find CSS Diner relaxing...
-</div> -->
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Tuesday 3/21</a> –  Web Unit Criteria and Stretch Goals / Layout</h3>
 
 <!--
