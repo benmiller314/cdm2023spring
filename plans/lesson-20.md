@@ -28,21 +28,21 @@ The tutorial chapter on typography included some out-of-date screenshots of Goog
   <div class="slides">
     <figure id="slide-1">
       <img alt="Screenshot of Google Fonts. The select font option follows the font display" src="../assets/img/google-fonts-1--select-font.png">
-      <figcaption>The "select font option" now just says "Select" (or "Select all styles").</figcaption>
+      <figcaption>1. The "select font option" now just says "Select" (or "Select all styles").</figcaption>
     </figure>
     <figure id="slide-2">
       <img alt="Screenshot of Google Fonts. To access font code, use View Selected Families menu item" src="../assets/img/google-fonts-2--selected-family-icon.png">
-      <figcaption>Selecting any style will activate the "View selected families" button on the top right. (It's a bit subtle.)</figcaption>
+      <figcaption>2. Selecting any style will activate the "View selected families" button on the top right. (It's a bit subtle.)</figcaption>
     </figure>
     <figure id="slide-3">
       <img alt="Screenshot of Google Fonts with Selected family sidebar." src="../assets/img/google-fonts-3--selected-family-sidebar.png">
-      <figcaption>That button opens a sidebar. Note that <code>@import</code> code can go in your stylesheet instead of your <code>&lt;head&gt;&lt;style&gt;</code>.</figcaption>
+      <figcaption>3. That button opens a sidebar. Note that <code>@import</code> code can go in your stylesheet instead of your <code>&lt;head&gt;&lt;style&gt;</code>.</figcaption>
     </figure> 
   </div> <!-- /.slides -->
 
-  <a href="#slide-1">1</a>
-  <a href="#slide-2">2</a>
-  <a href="#slide-3">3</a>
+  <a href="#slide-1" title="jump to slide 1">1</a>
+  <a href="#slide-2" title="jump to slide 2">2</a>
+  <a href="#slide-3" title="jump to slide 3">3</a>
 
 </div> <!-- /.slider -->
 
