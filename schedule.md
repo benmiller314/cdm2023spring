@@ -223,6 +223,8 @@ EXT: Self-paced tutorialing, using the lessons to build prelim pages of your own
 
 NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doesn't work like the tutorial's.
 
+NEW AFTER 2023spring: Suggest the Web Typography lesson as an EXT, and then as a priority for in-class work on Tuesday.
+
 -->
 
 * **Do** more of the [HTML and CSS tutorial](https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet. 
@@ -239,7 +241,9 @@ NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doe
 <!-- Make sure everyone knows how to make a navigation menu using <nav><ul><li><a>. -->
 
 For next time:
-<!-- NEW AFTER 2023spring: Leave the tutorial for Flexbox. It's overly cluttered HTML, it doesn't have Grid anyway, and there are better resources out there. Which resources, exactly? I'll have to look... -->
+<!-- NEW AFTER 2023spring: DON'T DO the tutorial for Flexbox. It's overly cluttered HTML, it doesn't have Grid anyway, and there are better resources out there. Which resources, exactly? I'll have to look... 
+
+-->
 * **View** video on [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU&list=PL4-IK0AVhVjM6kuUoUexfmnD8vHtZkXdd&index=4) 
 * **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet. 
   - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors.
@@ -247,8 +251,8 @@ For next time:
   - EXT: Want more CSS Grid templates and examples, including CodePens to play with? Try [Grid By Example](https://gridbyexample.com/patterns/), which also has video tutorials.
 * **Compose and push** a first website preview: a beginning, focused on content and navigation.
 
-<a id="current"/>
-<h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Tuesday 3/21</a> –  Web Unit Criteria and Stretch Goals / Layout</h3>
+
+<h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Tuesday 3/21</a> – Web Unit Studio / Layout Q & A</h3>
 
 <!--
 * Make sure everyone has successfully activated GitHub Pages before they leave.
@@ -265,7 +269,8 @@ For next time:
   - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue]({{site.github.issues_url}}/new/choose)! Then my answer to you can help others, too.
 * **Compose and push** a second website preview, now adding or updating layout. A full, workshop-ready draft of your website project is due in one week.
 
-<h3><a href="{{site.github_url}}/plans/lesson-20">Lesson 20, Thursday 3/23</a> – Web Unit Studio / Layout Q & A</h3>
+<a id="current"/>
+<h3><a href="{{site.github_url}}/plans/lesson-20">Lesson 20, Thursday 3/23</a> – Web Unit Criteria and Stretch Goals / Studio</h3>
 
 <!--
 * Model building a design from a hand-drawn sketch.
