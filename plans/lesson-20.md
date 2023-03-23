@@ -8,7 +8,8 @@
 
 **Plan for the day**:
 
-0. Google Fonts update
+* Google Fonts update
+
 1. Reflective writing on current projects (5 min)
 2. Reflective writing on websites you've liked (5 min)
 3. Apply reflections to update criteria (20 min)
@@ -24,17 +25,26 @@
 The tutorial chapter on typography included some out-of-date screenshots of Google Fonts, and Google Fonts does make the import code a little hard to find. Here's an updated version:
 
 <div class="slider">
-  
+  <div class="slides">
+    <figure id="slide-1">
+      <img alt="Screenshot of Google Fonts. The select font option follows the font display" src="../assets/img/google-fonts-1--select-font.png">
+      <figcaption>The "select font option" now just says "Select" (or "Select all styles").</figcaption>
+    </figure>
+    <figure id="slide-2">
+      <img alt="Screenshot of Google Fonts. To access font code, use View Selected Families menu item" src="../assets/img/google-fonts-2--selected-family-icon.png">
+      <figcaption>Selecting any style will activate the "View selected families" button on the top right. (It's a bit subtle.)</figcaption>
+    </figure>
+    <figure id="slide-3">
+      <img alt="Screenshot of Google Fonts with Selected family sidebar." src="../assets/img/google-fonts-3--selected-family-sidebar.png">
+      <figcaption>That button opens a sidebar. Note that <code>@import</code> code can go in your stylesheet instead of your <code>&lt;head&gt;&lt;style&gt;</code>.</figcaption>
+    </figure> 
+  </div> <!-- /.slides -->
+
   <a href="#slide-1">1</a>
   <a href="#slide-2">2</a>
   <a href="#slide-3">3</a>
 
-  <div class="slides">
-    <img id="slide-1" alt="Screenshot of Google Fonts. The select font option follows the font display" src="../assets/img/google-fonts-1--select-font.png">
-    <img id="slide-2" alt="Screenshot of Google Fonts.To access font code, use View Selected Families menu item" src="../assets/img/google-fonts-2--selected-family-icon.png">
-    <img id="slide-3" alt="Import code can go at the top of your stylesheet, rather than in the HTML style element" src="../assets/img/google-fonts-3--selected-family-sidebar.png">
-  </div>
-</div>
+</div> <!-- /.slider -->
 
 
 ## 1. Reflective writing on current projects (5 min)

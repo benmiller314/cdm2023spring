@@ -329,7 +329,7 @@ pre code {
     background: transparent;
 }
 
-.slides > img {
+.slides > figure {
     scroll-snap-align: start;
     flex-shrink: 0;
     width: 100%;
@@ -341,10 +341,15 @@ pre code {
     transition: transform 0.5s;
     position: relative;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    scroll-margin-top: 10px;
+}
+
+.slides img {
     object-fit: cover;
-    scroll-margin-top: 100px;
+    width: 100%;
 }
 
 .slider > a {
@@ -356,16 +361,27 @@ pre code {
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    margin: 0 0 0.5rem 0;
+    margin: 0.5rem 0 0.5rem 0;
     position: relative;
 }
 .slider > a:active {
     top: 1px;
 }
 .slider > a:focus {
-    background: #000;
+    background: #333;
+    color: #48a0ff;
 }
+
   
+.slides figcaption {
+    font-size: 0.75em;
+}
+
+.slides code {
+    font-size:0.9em;
+    border: none;
+}
+
 /* Don't need button navigation
 @supports (scroll-snap-type) {
     .slider > a {
