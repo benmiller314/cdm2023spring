@@ -162,7 +162,7 @@ In this section:
 <dt><a href="https://pageclip.co/">pageclip.co</a></dt>
 <dt><a href="https://formspree.io/">formspree.co</a></dt>
 <dt><a href="https://usebasin.com/">Basin</a></dt>
-<dd>For those looking to integrate form submissions within their static site, the above plug-and-play services allow redirects to emails, Slack channels, or csv's. Free plans are limited but generally sufficient for most small-scale projects.</dd>
+<dd>For those looking to integrate form submissions within their static site, the above plug-and-play services allow redirects to emails, Slack channels, or csv's. Free plans are limited but generally sufficient for most small-scale projects. Thanks to <a href="https://github.com/bena03">Ben Adams</a> for finding and testing these resources!</dd>
 
 <dt id="frameworks"><a href="http://getbootstrap.com/">Bootstrap CSS Framework</a></dt>
 <dt><a href="http://getskeleton.com/">Skeleton CSS</a></dt>
