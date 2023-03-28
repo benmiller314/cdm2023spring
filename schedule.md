@@ -269,7 +269,6 @@ For next time:
   - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue]({{site.github.issues_url}}/new/choose)! Then my answer to you can help others, too.
 * **Compose and push** a second website preview, now adding or updating layout. A full, workshop-ready draft of your website project is due in one week.
 
-<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-20">Lesson 20, Thursday 3/23</a> – Web Unit Criteria and Stretch Goals / Studio</h3>
 
 <!--
@@ -285,14 +284,14 @@ For next time:
   * If you haven't already done so in class, test that your website portfolio is ready for your workshop partners to download: **try to clone it again to a new location** on your computer: if you can successfully open your pages in a local browser from that second location, you should be good to get feedback even from an asynchronous workshop.
     - (You should then also <em>delete that extra copy</em>, before you get confused as to where you're revising and pushing from.)
 
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Tuesday 3/28</a> – Web Unit Workshop </h3> 
 For next time:
 
 * Optionally, **write** one more blog post about what you'd like to do in our final / integrative unit. If you're interested in finding people to collaborate with, this is a good time to make a pitch.
   - Post this to <a href="{{site.github.issues_url}}">the issue queue</a>, as usual
 * Continue to **save, commit, and push** toward your final-for-now website.
-<!-- if you didn't get feedback, LET BEN KNOW! -->
+* If you didn't get feedback, please **let me know** asap!
 
 <!-- <div class="alert alert-danger">
 <span style="color: #c51100;">Heads up: This will be a <strong>fully asynchronous</strong> workshop. See lesson plan for details, but please try to leave your feedback <em>by Thursday morning if possible</em>, so your classmates have the studio time to revise with your input in mind. If you can finish by the end of our usual classtime, all the better!</span>
