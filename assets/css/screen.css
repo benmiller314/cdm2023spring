@@ -80,11 +80,11 @@ footer {
 }
 
 footer a {
-    color: #6294f4;
+    color: #8baee9;
 }
 
-footer a:hover, footer a:visited {
-    color: #297fdb;
+footer a:hover, footer a:focus, footer a:visited {
+    color: #6a9af4;
 }
 
 

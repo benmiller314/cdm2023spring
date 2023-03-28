@@ -208,7 +208,7 @@ As usual, to get credit for asynchronous participation, please add your intentio
 
 
 
-# Homework for next time
+## Homework for next time
 
 <div class="alert alert-info">
 Reminder: Accessible CSS workshop tomorrow, March 24, in this room, 2:30-3:30pm!
