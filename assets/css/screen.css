@@ -227,6 +227,12 @@ details summary {
     padding: 0.5em;
 }
 
+details details summary {
+    background-color: #dee5eb;
+    border: 1px solid #7a92ad;
+    padding-left: 2em;
+}
+
 details[open] {
     margin-bottom: 2em;
   	padding-bottom: 1em;

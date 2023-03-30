@@ -284,7 +284,6 @@ For next time:
   * If you haven't already done so in class, test that your website portfolio is ready for your workshop partners to download: **try to clone it again to a new location** on your computer: if you can successfully open your pages in a local browser from that second location, you should be good to get feedback even from an asynchronous workshop.
     - (You should then also <em>delete that extra copy</em>, before you get confused as to where you're revising and pushing from.)
 
-<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Tuesday 3/28</a> – Web Unit Workshop </h3> 
 For next time:
 
@@ -300,6 +299,7 @@ For next time:
 </div>
 -->
 
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Thursday 3/30</a> – Post-workshop Studio </h3>
 
 Planning ahead:
@@ -308,7 +308,7 @@ Planning ahead:
 
 <div class="alert alert-warning"><span style="color: #c51100;">NB: Ben will be traveling next week because of Passover. Tuesday's class and office hours (April 4) will be <em>fully remote</em>; Thursday's class and office hours (April 6) are <em>canceled</em>.</span></div>
 
-<h3><a href="{{site.github_url}}/plans/lesson-23">Lesson 23, Tuesday 4/4</a> – Final Web-Unit Studio <span style="color: #c51100;"><strong>on Zoom</strong></span> (access from link in Canvas sidebar)
+<h3><a href="{{site.github_url}}/plans/lesson-23">Lesson 23, Tuesday 4/4</a> – Final Web-Unit Studio <span style="color: #c51100;"><strong>on Zoom</strong></span> (access with password and Zoom link in Canvas: see blue box up top)
 </h3> <!-- Already done? Head over to <a href="{{site.github.issues_url}}">the issue queue</a> and read through final-unit proposals. Anything you want to collaborate on? (NB: Collaboration is not required for the final unit.) -->
 
 For next time:
