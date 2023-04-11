@@ -17,7 +17,8 @@
 
 ## 0. Mental health check.
 
-Last night's SWATting of Hillman library is, to put it mildly, upsetting. How are you holding up?
+<div class="alert alert-info">Last night's SWATting of Hillman library is, to put it mildly, upsetting. How are you holding up?
+</div>
 
 Pitt's been working on resources and workshops, some of which are described at [https://www.studentaffairs.pitt.edu/cc/workshopsandmore/](https://www.studentaffairs.pitt.edu/cc/workshopsandmore/). Unfortunately, not all of those are fully activated yet, but I do see that there are free virtual workshops coming up on "calming your thoughts," "building resilience," and "understanding and managing anxiety"; that last one has a session tomorrow at 2pm. For each, you just need to register to get the Zoom link.
 
