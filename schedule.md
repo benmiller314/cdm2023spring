@@ -147,6 +147,7 @@ For next time:
 
 <h3><a href="{{site.github_url}}/plans/lesson-11">Lesson 11, Tuesday 2/14</a> – Generative Studio</h3>
 <!-- Open class with guidance re: proposals -->
+<!-- NEW AFTER 2023 SPRING: help students choose reasonable canvas sizes by looking into the defaults for new files when you tour the software. -->
 For next time:
 
 * **Compose and push** a visual rhetoric preview; workshop-ready draft due in one week.
@@ -299,7 +300,7 @@ For next time:
 </div>
 -->
 
-<a id="current"/>
+
 <h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Thursday 3/30</a> – Post-workshop Studio </h3>
 
 Planning ahead:
@@ -323,7 +324,7 @@ For next time:
 <!-- <p>If you're feeling especially aspirational, might I suggest that a game or interactive story built in <a href="https://twinery.org">Twine</a> might serve that combinatory goal quite well? I'll see what I'm able to screen-record by way of introduction / guidance.</p> -->
 
 
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-24">Lesson 24, Tuesday 4/11</a> – Intro to Consolidation / Integration Unit: Charting a Course Forward</h3>
 
 For next time:
@@ -360,7 +361,7 @@ For next time:
 
 For next time:
 * Finish consolidation project by Sunday, if you haven't yet
-* Work to complete your final portfolio, which we now know is due **Tuesday, April 25th** at 5:50pm (our final exam slot)
+* Work to complete your final portfolio, which we now know is due **Tuesday, April 25th** (our final exam slot)
 
 
 <div class="footnote-block" style="margin-top:3em;">
