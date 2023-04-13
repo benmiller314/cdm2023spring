@@ -233,7 +233,7 @@ details details summary {
     padding-left: 2em;
 }
 
-details[open] {
+details[open], aside {
     margin-bottom: 2em;
   	padding-bottom: 1em;
   	-webkit-box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
@@ -244,6 +244,11 @@ details[open] {
 /* But don't do this inside a colored alert */
 .alert summary {
     background-color: inherit;
+}
+
+aside {
+    padding: 1em;
+    background-color: #F7FAFC;
 }
 
 /* Add more visual separation between consecutive
@@ -387,6 +392,10 @@ pre code {
     font-size:0.9em;
     border: none;
 }
+
+.smaller {
+    font-size: smaller;
+} 
 
 /* Don't need button navigation
 @supports (scroll-snap-type) {
