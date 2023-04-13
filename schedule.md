@@ -324,7 +324,7 @@ For next time:
 <!-- <p>If you're feeling especially aspirational, might I suggest that a game or interactive story built in <a href="https://twinery.org">Twine</a> might serve that combinatory goal quite well? I'll see what I'm able to screen-record by way of introduction / guidance.</p> -->
 
 
-<a id="current"/>
+
 <h3><a href="{{site.github_url}}/plans/lesson-24">Lesson 24, Tuesday 4/11</a> – Intro to Consolidation / Integration Unit: Charting a Course Forward</h3>
 
 For next time:
@@ -333,7 +333,8 @@ For next time:
   * Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans; maybe even review your studio goals and exit notes. What things have you done this semester?
 * *Preparing one final project or revision:*
   * Work through the questions in the EXT, if you didn't yet, to develop an informal project pitch you can post to the shared google doc.
-
+  
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Thursday 4/13</a> – Consolidation Unit Pitch Market and Studio</h3>
 
 For next time:
