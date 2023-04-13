@@ -18,3 +18,4 @@ On this page, you'll find links to important course documents and readings you c
 (will be posted here, as needed)
 
 * [Lesson 17 answer key](uploads/lesson-17--web--answer-key.docx)
+* [Final portfolio guidelines](uploads/handout--final-portfolio-prompt.docx) (see also [lesson 25](plans/lesson-25))
