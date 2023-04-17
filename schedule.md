@@ -334,7 +334,7 @@ For next time:
 * *Preparing one final project or revision:*
   * Work through the questions in the EXT, if you didn't yet, to develop an informal project pitch you can post to the shared google doc.
   
-<a id="current"/>
+
 <h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Thursday 4/13</a> – Consolidation Unit Pitch Market and Studio</h3>
 
 For next time:
@@ -343,7 +343,7 @@ For next time:
 * **Document your progress** as you go! Screenshot, save, commit (or otherwise log changes), push, repeat.
 * Continue updating and following your work plan.
 
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-26">Lesson 26, Tuesday 4/18</a> – Consolidation Unit Studio / Preparing the Final Reflective Letter </h3>
 
 For next time:
