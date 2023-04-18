@@ -1,4 +1,4 @@
-# Consolidation Unit Studio / Guidance for the Final Reflective Letter
+# Consolidation Unit Studio
 
 **Work to have done**: Post a preview (at least one new commit) toward your consolidation unit project, based on [your task list from last time](bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.bkmr3xrg3uqh).
 
