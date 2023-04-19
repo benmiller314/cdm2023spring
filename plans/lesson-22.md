@@ -59,7 +59,7 @@ In addition, after reading through the drafts and comments, I hope you can...
 </details>
 
 
-<details><summary>Level up your HTML.</summary>
+<details open><summary>Level up your HTML.</summary>
 <p>There are a few patterns that I notice often as people learn HTML and search for models online:</p>
   <details><summary>Use <code>div</code> for grouping, semantic HTML for basic structure</summary>
     <p>When you have divs inside divs inside divs, they all start to flow and meld and it's hard to see what role each thing is actually playing. Sometimes we call this "div soup." To help with that, <em>see whether you can replace some with a more semantic tag</em>: <ul><li>Is that div with one line of text acting like an <code>&lt;h2&gt;</code> (or vice versa)?</li><li> Are those divs wrapping up each of several items, each with a recurring structure like photo / name / description? Maybe they're actually <code>&lt;article&gt;</code>s.</li><li>Is the whole display of articles really a <code>&lt;section&gt;</code>?</li><li>etc</li></ul></p>
