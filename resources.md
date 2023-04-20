@@ -130,6 +130,9 @@ In this section:
 <dt><a href="https://unsplash.com/">Unsplash</a></dt>
 <dd>A collection of high-res, large-scale images that are free for personal <em>and</em> commercial uses; they may be especially useful for splashy website headers and homescreens.</dd>
 
+<dt><a href="https://undraw.co/">Undraw</a></dt>
+<dd>A collection of open-licensed illustrations in .svg format, meaning they can scale to any size without losing quality. Perhaps especially useful during the web unit. Thanks to Michael Pacifico for the recommendation!</dd>
+
 <dt><a href="https://www.fontsquirrel.com/">Font Squirrel</a></dt>
 <dd><p>Fonts that are free for personal <em>and</em> commercial uses, making them especially handy for advertising campaigns and the like. The site also includes some useful educational resources for learning more about font history and font selection.</p>
 <p>For web design applications, see also their <a href="https://www.fontsquirrel.com/tools/webfont-generator">WebFont Generator, </a>, because even once you've find a good font, before you can use it on the web, it has to be formatted for browsers to render properly. Some fonts on your favorite font sites will already have webfont versions. If they don't, you can convert them to web-ready fonts using this tool. Just make sure you have permission to do so, okay?</p></dd>

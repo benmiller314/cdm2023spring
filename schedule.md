@@ -343,7 +343,7 @@ For next time:
 * **Document your progress** as you go! Screenshot, save, commit (or otherwise log changes), push, repeat.
 * Continue updating and following your work plan.
 
-<a id="current"/>
+
 <h3><a href="{{site.github_url}}/plans/lesson-26">Lesson 26, Tuesday 4/18</a> – Consolidation Unit Studio / Preparing the Final Reflective Letter </h3>
 
 For next time:
@@ -352,10 +352,10 @@ For next time:
 * Continue updating and following your work plan.
 * **Push** a project update (i.e. maybe not a finished draft, but closer) to your repository.
 * **Document your progress** as you go! Screenshot, save, commit (or otherwise log changes), push, repeat.
-* **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. We'll share these in the last class.
+* _Optional_: **choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. We'll share these in the last class.
 
 
-
+<a id="current"/>
 <h3><a href="{{site.github_url}}/plans/lesson-27">Lesson 27, Thursday 4/20</a> – Last day of class! Looking back and looking forward</h3>
 
 <!-- Asynchronous writing toward final portfolio reflection -->
