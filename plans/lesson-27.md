@@ -136,6 +136,6 @@ When we're getting toward those last few minutes, please head back to the google
 * The final portfolio will be due during our final exam slot, which is **Tuesday, April 25th**. I messed up the time initially, so I'm just saying you have until the end of the day.
 * The reflection is the main thing, so **if you do make revisions to earlier projects, please be sure to talk about them in the reflection.** Or even if you don’t have time to make revisions, but want to talk about what you _would_ revise, if you had more time, you can talk about that in the reflection, too. I'm most interested in what you've learned this semester, and what will help you keep learning after it ends.
 
-* Office hour update: I have office hours today and on Tuesday at the usual 2:30-3:30, on Zoom only: <a href="https://pitt.zoom.us/my/benmiller314">pitt.zoom.us/my/benmiller314</a>. Let me know if you're coming at benmiller314.youcanbook.me, or just drop by.You can also always email me with questions.
+* Office hour update: I have office hours today and on Tuesday at the usual 2:30-3:30, on Zoom only: <a href="https://pitt.zoom.us/my/benmiller314">pitt.zoom.us/my/benmiller314</a>. Let me know if you're coming at <a href="https://benmiller314.youcanbook.me">benmiller314.youcanbook.me</a>, or just drop by. You can also always email me with questions.
 
 <div class="alert alert-white">I like to <a href="https://www.poetryfoundation.org/poems/47785/at-the-san-francisco-airport">end with poetry</a>.</div>

@@ -242,9 +242,9 @@ NEW AFTER 2023spring: Suggest the Web Typography lesson as an EXT, and then as a
 <!-- Make sure everyone knows how to make a navigation menu using <nav><ul><li><a>. -->
 
 For next time:
-<!-- NEW AFTER 2023spring: DON'T DO the tutorial for Flexbox. It's overly cluttered HTML, it doesn't have Grid anyway, and there are better resources out there. Which resources, exactly? I'll have to look... 
 
--->
+<!-- NEW AFTER 2023spring: DON'T DO the tutorial for Flexbox. It's overly cluttered HTML, it doesn't have Grid anyway, and there are better resources out there. Which resources, exactly? I'll have to look... -->
+
 * **View** video on [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU&list=PL4-IK0AVhVjM6kuUoUexfmnD8vHtZkXdd&index=4) 
 * **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet. 
   - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors.
