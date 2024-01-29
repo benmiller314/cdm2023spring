@@ -161,7 +161,7 @@ In this section:
 <dt><a href="https://templated.co/">templated.co</a></dt>
 <dt><a href="https://html5up.net/">html5up.net</a></dt>
 <dd>There are a lot of websites that offer collections of free website themes and templates. These are two of my favorite sources for starting up static sites with built-in semantic html5 and responsive css.</dd>
-   
+
 <dt><a href="https://pageclip.co/">pageclip.co</a></dt>
 <dt><a href="https://formspree.io/">formspree.co</a></dt>
 <dt><a href="https://usebasin.com/">Basin</a></dt>
@@ -275,8 +275,8 @@ Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets lis
 In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons)... in addition, of course, to the web frameworks themselves.
 
 <dl>
-<dt><a href="https://internetingishard.com/html-and-css/">Interneting is Hard (but it doesn't have to be)</a></dt>
-<dt><a href="https://web.archive.org/web/20180704003252/https://www.internetingishard.com/html-and-css/">(WebArchive version)</a></dt>
+<dt><a href="https://internetingishard.netlify.app/">Interneting is Hard (but it doesn't have to be)</a></dt>
+<dt><a href="https://web.archive.org/web/20180704003252/https://www.internetingishard.com/">(WebArchive version, if the above doesn't load)</a></dt>
 <dd>Your one-stop shop for learning basic web architecture from the ground up, with clear explanations and cute illustrations. I'll assign chapters from this over several homeworks. </dd>
 
 <dt><a href="http://jgthms.com/web-design-in-4-minutes">Web Design in 4 Minutes</a></dt>
